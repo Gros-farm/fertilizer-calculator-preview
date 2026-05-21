@@ -1,0 +1,2635 @@
+
+"акварин профи" активный рост
+B
+N:20.0 P2O5:5.0 K2O:10.0 MgO:1.5 SO3:20.97 N_NH4:12.1 N_NO3:7.9 P:2.18 K:8.3 Mg:0.9 S:8.4 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин профи" завершение роста
+B
+N:3.0 P2O5:11.0 K2O:38.0 MgO:4.98 SO3:22.47 N_NO3:3.0 P:4.8 K:31.55 Mg:3.0 S:9.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин профи" начало роста
+B
+N:13.0 P2O5:41.0 K2O:13.0 N_NH4:8.6 N_NO3:4.4 P:17.89 K:10.79 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин профи" созревание
+B
+N:12.0 P2O5:12.0 K2O:35.0 MgO:1.0 SO3:1.75 N_NO3:12.0 P:5.24 K:29.06 Mg:0.6 S:0.7 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин профи" универсальный
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:2.0 SO3:3.75 N_NH4:2.1 N_NO3:3.9 N_NH2:12.0 P:7.86 K:14.94 Mg:1.21 S:1.5 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин профи" цветение
+B
+N:19.0 P2O5:6.0 K2O:20.0 MgO:1.5 SO3:3.5 N_NH4:7.1 N_NO3:11.9 P:2.62 K:16.6 Mg:0.9 S:1.4 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин" для клубники и земляники
+B
+N:14.0 P2O5:7.0 K2O:28.0 MgO:3.5 SO3:6.99 N_NH4:2.0 N_NO3:8.9 N_NH2:3.1 P:3.05 K:23.24 Mg:2.11 S:2.8 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин" для петуний
+B
+N:15.0 P2O5:5.0 K2O:21.5 MgO:3.5 SO3:14.98 N_NH4:6.1 N_NO3:8.9 P:2.18 K:17.85 Mg:2.11 S:6.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"акварин" для цветов
+B
+N:13.0 P2O5:11.46 K2O:30.12 MgO:3.32 SO3:19.98 N_NH4:6.0 N_NO3:7.0 P:5.0 K:25.0 Mg:2.0 S:8.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+"грунтовая заправка" для рассады
+B
+N:14.0 P2O5:16.0 K2O:18.0 MgO:0.5 SO3:17.48 N_NH4:8.7 N_NO3:5.3 P:6.98 K:14.94 Mg:0.3 S:7.0 Fe:0.09 Zn:0.04 Cu:0.15 Mn:0.16 Mo:0.2 B:0.03
+
+"грунтовая заправка" универсальная
+B
+N:12.0 P2O5:14.0 K2O:23.0 N_NH4:5.0 N_NO3:7.0 P:6.11 K:19.09 Fe:0.09 Zn:0.04 Cu:0.15 Mn:0.16 Mo:0.2 B:0.03
+
+A b
+A
+N:2.4 P2O5:1.24 K2O:3.4 CaO:1.4 MgO:1.49 SO3:2.0 N_NH4:0.3 N_NO3:2.1 P:0.54 K:2.82 Ca:1.0 Mg:0.9 S:0.8
+
+Adob® гидропоник микро комплекс
+B
+Fe:6.0 Zn:1.7 Cu:0.25 Mn:2.8 Mo:0.25 B:1.6
+
+Advanced hydroponics bloom
+B
+N:0.7 P2O5:5.7 K2O:5.3 MgO:2.1 SO3:5.6 N_NH4:0.4 N_NO3:0.3 P:2.49 K:4.4 Mg:1.27 S:2.24
+
+Advanced hydroponics grow
+B
+N:2.4 P2O5:4.4 K2O:7.4 MgO:0.8 SO3:2.2 N_NH4:0.6 N_NO3:1.8 P:1.92 K:6.14 Mg:0.48 S:0.88
+
+Advanced hydroponics micro(не рекомендуется - не указан состав полностью оф-но)
+A
+N:5.55 K2O:6.0 CaO:6.45 N_NH4:0.25 N_NO3:5.3 K:4.98 Ca:4.61
+
+Advanced jungle juice bloom
+B
+P2O5:5.0 K2O:4.0 MgO:1.4 SO3:1.0 P:2.18 K:3.32 Mg:0.84 S:0.4
+
+Advanced jungle juice micro
+A
+N:10.0 K2O:1.0 CaO:7.0 N_NH4:0.3 N_NO3:5.0 N_NH2:4.7 K:0.83 Ca:5.0 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 B:0.01
+
+Advanced nutrients b-52
+B
+N:2.0 P2O5:1.0 K2O:4.0 N_NH4:1.5 N_NO3:0.5 P:0.44 K:3.32
+
+Advanced nutrients b52
+B
+N:2.0 P2O5:1.0 K2O:4.0 N_NO3:2.0 P:0.44 K:3.32
+
+Advanced nutrients big bud coco
+A
+P2O5:4.0 K2O:4.0 CaO:1.4 MgO:0.83 SO3:2.5 P:1.75 K:3.32 Ca:1.0 Mg:0.5 S:1.0 Fe:0.1
+
+Advanced nutrients bud candy
+B
+K2O:1.0 K:0.83
+
+Advanced nutrients bud factor x
+B
+MgO:0.83 Mg:0.5
+
+Advanced nutrients bud ignitor
+B
+P2O5:1.0 K2O:2.0 P:0.44 K:1.66
+
+Advanced nutrients connoisseur coco bloom a
+A
+N:4.0 CaO:4.2 MgO:1.66 N_NO3:4.0 Ca:3.0 Mg:1.0 Fe:0.15 Mn:0.05
+
+Advanced nutrients connoisseur coco bloom b
+B
+N:1.0 P2O5:4.0 K2O:5.0 N_NO3:1.0 P:1.75 K:4.15 B:0.03
+
+Advanced nutrients connoisseur coco grow a
+A
+N:4.0 CaO:4.9 MgO:1.49 N_NO3:4.0 Ca:3.5 Mg:0.9 Fe:0.05 Mn:0.05
+
+Advanced nutrients connoisseur coco grow b
+B
+N:1.0 P2O5:2.0 K2O:4.0 SO3:2.0 N_NH4:0.05 N_NO3:0.95 P:0.87 K:3.32 S:0.8
+
+Advanced nutrients hammerhead
+B
+P2O5:4.0 K2O:12.0 P:1.75 K:9.96
+
+Advanced nutrients overdrive
+B
+N:1.0 P2O5:5.0 K2O:4.0 MgO:1.53 N_NO3:1.0 P:2.18 K:3.32 Mg:0.92
+
+Advanced nutrients ph perfect bloom
+B
+N:1.0 P2O5:3.0 K2O:4.0 SO3:0.5 N_NH4:0.05 N_NO3:0.4 N_NH2:0.55 P:1.31 K:3.32 S:0.2
+
+Advanced nutrients ph perfect coco bloom part a
+A
+N:4.0 CaO:4.9 MgO:1.49 N_NO3:3.4 N_NH2:0.6 Ca:3.5 Mg:0.9 Fe:0.17
+
+Advanced nutrients ph perfect grow
+B
+N:1.0 K2O:4.0 MgO:0.5 SO3:1.25 N_NO3:1.0 K:3.32 Mg:0.3 S:0.5
+
+Advanced nutrients ph perfect micro
+A
+N:2.0 CaO:3.36 MgO:0.17 N_NO3:2.0 Ca:2.4 Mg:0.1 Fe:0.05 Mn:0.05 B:0.02
+
+Advanced nutrients ph perfect sensi coco bloom a
+A
+N:4.0 CaO:4.2 MgO:1.49 N_NO3:3.4 N_NH2:0.6 Ca:3.0 Mg:0.9 Fe:0.17 Mn:0.05
+
+Advanced nutrients ph perfect sensi coco bloom b
+B
+P2O5:4.0 K2O:5.0 SO3:2.25 P:1.75 K:4.15 S:0.9
+
+Advanced nutrients ph perfect sensi coco bloom part a (2025)
+A
+N:4.0 CaO:4.9 MgO:1.49 N_NH4:0.6 N_NO3:3.4 Ca:3.5 Mg:0.9 Fe:0.15
+
+Advanced nutrients ph perfect sensi coco bloom part b (2025)
+B
+P2O5:4.0 K2O:5.0 SO3:2.25 P:1.75 K:4.15 S:0.9
+
+Advanced nutrients ph perfect sensi coco grow a
+A
+N:3.0 CaO:4.2 MgO:0.83 N_NO3:3.0 Ca:3.0 Mg:0.5 Fe:0.17 Mn:0.05
+
+Advanced nutrients ph perfect sensi coco grow b
+B
+N:1.0 P2O5:2.0 K2O:4.0 SO3:2.0 N_NO3:0.5 N_NH2:0.5 P:0.87 K:3.32 S:0.8
+
+Advanced nutrients ph perfect sensi coco grow part a (2025)
+A
+N:3.0 CaO:4.2 MgO:0.83 N_NO3:3.0 Ca:3.0 Mg:0.5 Fe:0.17 Mn:0.05
+
+Advanced nutrients ph perfect sensi coco grow part b (2025)
+B
+N:1.0 P2O5:2.0 K2O:4.0 SO3:2.0 N_NH4:0.5 N_NO3:0.5 P:0.87 K:3.32 S:0.8
+
+Advanced nutrients ph perfect sensi grow part b
+B
+N:0.9 P2O5:2.0 K2O:6.0 SO3:3.3 N_NO3:0.9 P:0.87 K:4.98 S:1.32
+
+Advanced nutrients revive
+A
+N:1.0 CaO:1.4 MgO:0.83 N_NO3:1.0 Ca:1.0 Mg:0.5 Fe:0.3
+
+Advanced nutrients rhino skin
+B
+K2O:0.4 K:0.33 Si:0.07
+
+Advanced nutrients sensi cal mag xtra
+A
+N:4.0 CaO:4.48 MgO:1.82 N_NO3:4.0 Ca:3.2 Mg:1.1 Fe:0.09 Zn:0.05 Mn:0.05
+
+Advanced nutrients sensi grow part a
+B
+N:9.0 P2O5:10.0 K2O:28.0 MgO:4.98 SO3:11.99 N_NH4:0.6 N_NO3:6.23 N_NH2:2.17 P:4.36 K:23.24 Mg:3.0 S:4.8 Fe:0.2 Zn:0.03 Mn:0.2 B:0.04
+
+Advanced nutrients sensi grow part b
+A
+N:15.0 CaO:25.89 N_NH4:1.0 N_NO3:14.0 Ca:18.5
+
+Advanced nutrients true organics mother earth super tea
+B
+N:3.0 P2O5:2.0 K2O:5.0 MgO:0.83 N_NH4:2.0 N_NO3:1.0 P:0.87 K:4.15 Mg:0.5
+
+Alpha npk agua flores a
+A
+N:3.4 K2O:6.0 CaO:2.1 N_NH4:0.3 N_NO3:3.1 K:4.98 Ca:1.5 Fe:0.05 Mn:0.01
+
+Alpha npk agua flores b
+B
+P2O5:3.7 K2O:3.4 MgO:1.7 P:1.61 K:2.82 Mg:1.03
+
+Alpha npk agua vega b
+B
+P2O5:2.6 K2O:4.2 SO3:2.4 P:1.13 K:3.49 S:0.96 Zn:0.01 Mn:0.02 B:0.01
+
+Alpha npk ca-mg plus
+A
+N:5.1 CaO:5.7 MgO:3.3 N_NH4:5.1 Ca:4.07 Mg:1.99
+
+Alpha npk coco a
+A
+N:3.6 K2O:0.7 CaO:6.3 MgO:0.8 N_NO3:3.6 K:0.58 Ca:4.5 Mg:0.48 Fe:0.02
+
+Alpha npk coco b
+B
+N:0.7 P2O5:3.8 K2O:2.3 MgO:1.8 SO3:2.0 N_NH4:0.1 N_NO3:0.6 P:1.66 K:1.91 Mg:1.09 S:0.8 Zn:0.01 Mn:0.01 B:0.01
+
+Alpha npk ph down ортофосфорная 40%
+B
+P2O5:28.96 P:12.64
+
+Alpha npk terra flores
+B
+N:2.03 P2O5:1.61 K2O:3.69 MgO:0.75 SO3:1.2 N_NH4:0.47 N_NO3:1.56 P:0.7 K:3.06 Mg:0.45 S:0.48 Fe:0.01
+
+Alpha npk terra vega
+B
+N:2.54 P2O5:1.04 K2O:3.13 MgO:0.98 SO3:0.7 N_NH4:0.57 N_NO3:1.97 P:0.45 K:2.6 Mg:0.59 S:0.28 Fe:0.14 Zn:0.01 Mn:0.1 B:0.01
+
+Alpha npk vega a
+A
+N:5.0 K2O:2.6 CaO:2.3 MgO:1.3 N_NH4:1.1 N_NO3:3.9 K:2.16 Ca:1.64 Mg:0.78 Fe:0.04 Mn:0.01
+
+Alpha pk 13/14
+B
+P2O5:13.0 K2O:14.0 P:5.67 K:11.62
+
+Amon-gafarti-21-0-0-2
+B
+N:21.0 SO3:24.0 N_NH4:21.0 S:9.6
+
+Amonio sulfato salietra n26
+B
+N:26.0 SO3:32.46 N_NH4:19.0 N_NO3:7.0 S:13.0
+
+An ph perfect bloom a
+A
+N:3.0 CaO:2.94 MgO:1.0 N_NO3:2.2 N_NH2:0.8 Ca:2.1 Mg:0.6 Fe:0.04 Mn:0.05
+
+Anorel kalafos (монофосфат калия)
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23
+
+Aquadrop npk 5:15:45
+B
+N:5.0 P2O5:15.0 K2O:45.0 N_NH4:3.0 N_NH2:2.0 P:6.55 K:37.36 Cl:34.0
+
+Aqualis ® 6-14-35+2mgo+мэ
+B
+N:6.0 P2O5:14.3 K2O:35.0 MgO:2.0 SO3:3.75 N_NH4:1.5 N_NO3:4.5 P:6.24 K:29.06 Mg:1.21 S:1.5 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.01 B:0.02
+
+Aqualis® 12-8-31+2mgo+мэ
+B
+N:12.2 P2O5:8.0 K2O:31.0 MgO:2.0 SO3:7.49 N_NH4:2.9 N_NO3:9.3 P:3.49 K:25.73 Mg:1.21 S:3.0 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.01 B:0.02
+
+Aqualis® 13-40-13+мэ
+B
+N:13.0 P2O5:40.0 K2O:15.66 SO3:3.75 N_NH4:9.0 N_NO3:4.0 P:17.46 K:13.0 S:1.5 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.01 B:0.02
+
+Aqualis® 20-20-20+мэ
+B
+N:20.2 P2O5:20.3 K2O:20.3 N_NH4:4.0 N_NO3:6.0 N_NH2:10.2 P:8.86 K:16.85 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.01 B:0.02
+
+Aqualis® 3-11-38+4mgo+мэ
+B
+N:3.0 P2O5:11.0 K2O:38.0 MgO:4.0 SO3:27.47 N_NO3:3.0 P:4.8 K:31.55 Mg:2.41 S:11.0 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.01 B:0.02
+
+Athena balance
+B
+K2O:2.0 K:1.66 Si:2.33
+
+Athena pro bloom
+B
+P2O5:12.0 K2O:24.0 MgO:4.98 SO3:22.47 P:5.24 K:19.92 Mg:3.0 S:9.0 Fe:0.1
+
+Athena pro core
+A
+N:14.0 CaO:23.79 N_NO3:14.0 Ca:17.0 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.03 B:0.01
+
+Athena pro fade
+A
+CaO:5.6 Ca:4.0 Cl:7.0 Fe:0.06 Cu:0.01 Mn:0.01 B:0.01
+
+Athena pro grow
+B
+N:2.0 P2O5:8.0 K2O:20.0 MgO:4.98 SO3:19.98 N_NO3:2.0 P:3.49 K:16.6 Mg:3.0 S:8.0 Fe:0.1
+
+Aгрикола 15-21-25
+B
+N:15.0 P2O5:21.0 K2O:25.0 N_NO3:15.0 P:9.16 K:20.75 Fe:0.05 Zn:0.02 Cu:0.02 Mn:0.04 Mo:0.01 B:0.03
+
+Balancer
+B
+Fe:5.0 Zn:6.0 Mn:4.0
+
+Biobaza bloom
+A
+N:4.0 P2O5:9.0 K2O:9.0 CaO:8.0 MgO:4.0 SO3:18.0 N_NH2:4.0 P:3.93 K:7.47 Ca:5.72 Mg:2.41 S:7.2
+
+Biobaza grow
+A
+N:7.0 P2O5:2.0 K2O:4.0 CaO:8.0 MgO:4.0 SO3:9.0 N_NH2:7.0 P:0.87 K:3.32 Ca:5.72 Mg:2.41 S:3.6
+
+Biobizz bio-bloom
+B
+N:1.98 P2O5:6.49 K2O:4.36 N_NH4:0.48 N_NO3:1.5 P:2.83 K:3.62
+
+Bioheaven biobizz
+B
+N:0.91 P2O5:0.41 K2O:0.29 CaO:0.39 MgO:0.33 N_NO3:0.91 P:0.18 K:0.24 Ca:0.28 Mg:0.2 Fe:0.02 B:0.02
+
+Bmusa jet
+B
+N:7.5 MgO:2.0 N_NO3:1.5 N_NH2:6.0 Mg:1.21 Fe:0.05 Zn:0.08 Mn:0.03 B:0.04
+
+Bona forte для кактусов и суккулентов
+B
+N:3.0 P2O5:5.0 K2O:7.0 MgO:0.3 N_NH4:3.0 P:2.18 K:5.81 Mg:0.18
+
+Bona forte для фикусов и пальм
+B
+N:6.0 P2O5:4.0 K2O:5.0 MgO:1.0 N_NH4:6.0 P:1.75 K:4.15 Mg:0.6 Fe:0.01
+
+Calcium nitrate ducanit нитрат кальция
+A
+N:15.5 CaO:26.5 N_NH4:1.1 N_NO3:14.4 Ca:18.94
+
+Calmag atami
+A
+N:5.8 CaO:6.8 MgO:2.5 N_NO3:5.2 N_NH2:0.6 Ca:4.86 Mg:1.51 Fe:0.03
+
+Calmag biobizz
+A
+CaO:4.2 MgO:1.7 Ca:3.0 Mg:1.03
+
+Calmag orange tree
+A
+N:0.88 CaO:4.2 MgO:1.2 N_NO3:0.88 Ca:3.0 Mg:0.72
+
+Canna agent
+A
+N:5.9 CaO:6.8 MgO:2.4 N_NH4:0.8 N_NO3:5.1 Ca:4.86 Mg:1.45
+
+Canna aqua flores a
+A
+N:3.4 K2O:5.96 CaO:2.03 N_NH4:0.31 N_NO3:3.09 K:4.95 Ca:1.45 Fe:0.05 Mn:0.01
+
+Canna aqua flores b
+B
+N:0.05 P2O5:3.67 K2O:3.47 MgO:1.7 SO3:4.3 N_NO3:0.05 P:1.6 K:2.88 Mg:1.03 S:1.72 Zn:0.01 Mn:0.02 B:0.01
+
+Canna aqua vega a
+A
+N:4.96 K2O:2.6 CaO:2.31 MgO:1.31 N_NH4:1.06 N_NO3:3.9 K:2.16 Ca:1.65 Mg:0.79 Fe:0.04 Mn:0.01
+
+Canna aqua vega b
+B
+N:0.21 P2O5:2.59 K2O:4.29 SO3:2.6 N_NO3:0.21 P:1.13 K:3.56 S:1.04 Zn:0.01 Mn:0.02 B:0.01
+
+Canna coco a
+A
+N:3.8 K2O:0.75 CaO:6.26 MgO:0.64 N_NO3:3.8 K:0.62 Ca:4.47 Mg:0.39 Fe:0.02
+
+Canna coco a+b
+A
+N:5.1 P2O5:4.0 K2O:3.0 CaO:7.0 MgO:3.32 SO3:2.0 N_NH4:0.1 N_NO3:5.0 P:1.75 K:2.49 Ca:5.0 Mg:2.0 S:0.8 Fe:0.02 Zn:0.01 Mn:0.01 B:0.01
+
+Canna coco b
+B
+N:0.77 P2O5:3.84 K2O:2.17 MgO:1.81 SO3:1.8 N_NH4:0.11 N_NO3:0.66 P:1.68 K:1.8 Mg:1.09 S:0.72
+
+Canna mono ca
+A
+CaO:11.6 Ca:8.29
+
+Canna pk13/14
+B
+P2O5:13.0 K2O:14.0 P:5.67 K:11.62
+
+Cannabiogen delta 9
+B
+N:3.1 P2O5:5.2 K2O:5.2 CaO:0.2 MgO:0.2 SO3:2.0 N_NH4:0.9 N_NO3:2.2 P:2.27 K:4.32 Ca:0.14 Mg:0.12 S:0.8 Fe:0.7 Zn:115.0 Cu:0.13 Mn:70.0 Mo:1.2 B:27.5 Co:8.0
+
+Cannabiogen delta nine
+B
+N:3.1 P2O5:5.2 K2O:5.2 N_NO3:2.2 N_NH2:0.9 P:2.27 K:4.32
+
+Cocl2*6h2o мс1
+B
+Cl:29.8 Co:24.77
+
+Combi sol peters 6-18-36 pro
+B
+N:6.0 P2O5:18.0 K2O:36.0 MgO:4.98 SO3:15.5 N_NO3:6.0 P:7.86 K:29.89 Mg:3.0 S:6.2 Fe:0.25 Zn:0.01 Cu:0.01 Mn:0.06 Mo:0.01 B:0.02
+
+Coseal complex a
+A
+N:13.0 K2O:25.3 CaO:19.59 N_NH4:1.3 N_NO3:11.7 K:21.0 Ca:14.0 Zn:0.01 Mn:0.07 B:0.2
+
+Coseal complex b
+B
+N:8.5 P2O5:21.77 K2O:26.5 MgO:9.12 N_NH4:0.85 N_NO3:7.65 P:9.5 K:22.0 Mg:5.5 Fe:0.35
+
+Cuso4*5h2o мс1
+B
+SO3:80.07 S:32.06 Cu:25.45
+
+Dualpart coco bloom t.a.
+B
+N:1.0 P2O5:6.0 K2O:4.0 MgO:3.0 SO3:5.0 N_NH4:0.6 N_NO3:0.4 P:2.62 K:3.32 Mg:1.81 S:2.0 Fe:0.01 Mn:0.01 B:0.01
+
+Dualpart coco grow t.a.
+A
+N:4.2 K2O:5.0 CaO:5.0 N_NH4:0.2 N_NO3:4.0 K:4.15 Ca:3.57 Fe:0.3 Zn:0.01 Cu:0.01 Mn:0.05 B:0.01
+
+Easy grow gp bud booster
+B
+N:1.0 P2O5:50.0 K2O:30.0 N_NO3:1.0 P:21.82 K:24.9 B:0.08
+
+Ec fertiliser calcium nitrat
+A
+N:15.5 CaO:26.5 N_NH4:1.1 N_NO3:14.4 Ca:18.94
+
+Eco hydro vega
+B
+N:2.0 P2O5:3.0 K2O:6.0 N_NH4:2.0 P:1.31 K:4.98
+
+Ecogan 20-20-20 плюс микро
+B
+N:20.0 P2O5:20.0 K2O:20.0 N_NH4:6.5 N_NO3:6.5 N_NH2:7.0 P:8.73 K:16.6 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05
+
+Edta ca
+A
+N:20.0 P2O5:22.91 K2O:12.05 CaO:13.99 N_NO3:20.0 P:10.0 K:10.0 Ca:10.0
+
+Edta mix 5 valagro
+B
+MgO:9.0 Mg:5.43 Fe:4.0 Zn:1.5 Cu:1.5 Mn:4.0 Mo:0.1 B:0.5
+
+Eurocompot flo
+A
+N:9.22 P2O5:9.83 K2O:15.64 CaO:9.99 MgO:3.35 SO3:6.37 N_NO3:9.22 P:4.29 K:12.98 Ca:7.14 Mg:2.02 S:2.55 Fe:0.12 Cu:0.01 Mn:0.03 B:0.02
+
+Eurocompot micro
+A
+N:6.87 P2O5:5.61 K2O:12.67 CaO:11.75 MgO:2.95 SO3:11.44 N_NO3:6.87 P:2.45 K:10.52 Ca:8.4 Mg:1.78 S:4.58 Fe:0.12 Cu:0.01 Mn:0.02 B:0.02
+
+Eurocompot multi
+A
+N:9.3 P2O5:4.9 K2O:16.48 CaO:11.42 MgO:2.55 SO3:11.96 N_NO3:9.3 P:2.14 K:13.68 Ca:8.16 Mg:1.54 S:4.79 Fe:0.12 Cu:0.01 Mn:0.02 B:0.02
+
+Fertika leafpower 15:30:15 (для рассады)
+B
+N:15.0 P2O5:30.0 K2O:15.0 MgO:2.0 N_NO3:15.0 P:13.09 K:12.45 Mg:1.21 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Fertika для газона 10
+A
+N:11.0 P2O5:12.0 K2O:26.0 CaO:0.77 MgO:0.4 SO3:1.75 N_NH4:6.6 N_NO3:4.4 P:5.24 K:21.58 Ca:0.55 Mg:0.24 S:0.7 Fe:0.16 Zn:0.09 Cu:0.08 Mn:0.16 Mo:0.01 B:0.09
+
+Feso4*7h2o мс1
+B
+SO3:28.8 S:11.53 Fe:20.09
+
+Fish mix biobizz
+B
+N:5.0 P2O5:1.0 K2O:4.0 N_NH4:1.0 N_NO3:0.4 N_NH2:3.6 P:0.44 K:3.32
+
+Fitofert combivit complex 14 (микроэлементы)
+B
+Fe:3.0 Zn:3.0 Cu:1.0 Mn:3.0 Mo:1.0 B:3.0
+
+Fitofert kristal 20-20-20
+B
+N:20.0 P2O5:20.0 K2O:20.0 N_NH4:4.0 N_NO3:5.8 N_NH2:10.2 P:8.73 K:16.6 Fe:0.04 Zn:0.01 Mn:0.04 Mo:0.01 B:0.05
+
+Flawless finish
+B
+MgO:1.61 SO3:3.25 Mg:0.97 S:1.3
+
+Flora flex b1
+A
+N:14.0 K2O:22.0 CaO:9.79 N_NH4:0.5 N_NO3:13.5 K:18.26 Ca:7.0
+
+Flora flex b2
+B
+P2O5:28.0 K2O:18.0 MgO:11.61 SO3:27.47 P:12.22 K:14.94 Mg:7.0 S:11.0
+
+Flora flex bulky b
+B
+P2O5:14.0 K2O:43.0 MgO:1.66 SO3:27.47 P:6.11 K:35.7 Mg:1.0 S:11.0
+
+Flora flex full tilt
+B
+P2O5:47.0 K2O:35.0 P:20.51 K:29.06
+
+Flora flex v1
+A
+N:14.0 K2O:4.0 CaO:20.99 N_NH4:1.0 N_NO3:13.0 K:3.32 Ca:15.0 Mo:0.01
+
+Flora flex v2
+B
+N:6.0 P2O5:17.0 K2O:25.0 MgO:3.32 SO3:14.98 N_NH4:2.0 N_NO3:4.0 P:7.42 K:20.75 Mg:2.0 S:6.0
+
+Floris kan (аммония нитрат)
+A
+N:27.0 N_NH4:13.5 N_NO3:13.5
+
+Gh powder feeding booster pk+_supernova
+B
+P2O5:30.0 K2O:27.0 MgO:8.29 SO3:22.47 P:13.09 K:22.41 Mg:5.0 S:9.0 Fe:0.1 Mo:0.01
+
+Gh powder feeding calcium_supernova
+A
+CaO:12.59 Ca:9.0
+
+Gh powder feeding grow
+B
+N:27.0 P2O5:6.0 K2O:12.0 MgO:2.0 N_NH4:14.0 N_NO3:13.0 P:2.62 K:9.96 Mg:1.21 Fe:0.1 Zn:0.01 Cu:0.04 Mn:0.05 Mo:0.01 B:0.02
+
+Gh powder feeding grow_supernova
+B
+N:24.0 P2O5:6.0 K2O:12.0 MgO:1.99 SO3:3.75 N_NH4:11.0 N_NO3:13.0 P:2.62 K:9.96 Mg:1.2 S:1.5 Fe:0.1 Mn:0.05 Mo:0.01
+
+Gh powder feeding hybrids_supernova
+B
+N:15.0 P2O5:7.0 K2O:22.0 MgO:4.98 SO3:9.99 N_NH4:5.0 N_NO3:10.0 P:3.05 K:18.26 Mg:3.0 S:4.0 Fe:0.1 Mn:0.03
+
+Gh powder feeding long_supernova
+B
+N:18.0 P2O5:12.0 K2O:18.0 MgO:1.99 SO3:3.25 N_NH4:8.0 N_NO3:10.0 P:5.24 K:14.94 Mg:1.2 S:1.3 Fe:0.1 Mn:0.04 B:0.01
+
+Gh powder feeding short flovering_supernova
+B
+N:16.0 P2O5:6.0 K2O:26.0 MgO:3.32 SO3:5.24 N_NH4:5.0 N_NO3:11.0 P:2.62 K:21.58 Mg:2.0 S:2.1 Fe:0.1 Mn:0.05 B:0.01
+
+Ghe "novamax bloom" с микрухой
+A
+N:4.0 P2O5:8.0 K2O:7.0 CaO:4.0 MgO:2.0 SO3:2.0 N_NH4:0.25 N_NO3:3.75 P:3.49 K:5.81 Ca:2.86 Mg:1.21 S:0.8 Fe:0.1 Zn:0.02 Cu:0.01 Mn:0.02 B:0.02
+
+Ghe "novamax grow" с микрухой
+A
+N:7.0 P2O5:4.0 K2O:10.0 CaO:4.0 MgO:1.5 SO3:2.0 N_NH4:0.9 N_NO3:6.1 P:1.75 K:8.3 Ca:2.86 Mg:0.9 S:0.8 Fe:0.1 Zn:0.02 Cu:0.01 Mn:0.02 B:0.02 Co:0.01
+
+Ghe final part
+B
+P2O5:6.0 K2O:5.0 MgO:3.0 SO3:5.0 P:2.62 K:4.15 Mg:1.81 S:2.0
+
+Ghe flora bloom
+B
+P2O5:5.01 K2O:4.0 MgO:4.98 SO3:4.99 P:2.19 K:3.32 Mg:3.0 S:2.0
+
+Ghe flora gro
+B
+N:3.0 P2O5:1.0 K2O:6.0 MgO:1.33 N_NH4:1.0 N_NO3:2.0 P:0.44 K:4.98 Mg:0.8
+
+Ghe flora micro hardwater
+A
+N:5.0 K2O:1.3 CaO:1.4 N_NH4:1.5 N_NO3:3.5 K:1.08 Ca:1.0 Fe:0.12 Zn:0.01 Cu:0.01 Mn:0.05 B:0.01
+
+Ghe flora micro softwater
+A
+N:5.0 K2O:1.3 CaO:7.0 N_NH4:1.5 N_NO3:3.5 K:1.08 Ca:5.0 Fe:0.02 Zn:0.01 Cu:0.01 Mn:0.04 B:0.01
+
+Ghe flora nova bloom
+A
+N:4.25 P2O5:8.0 K2O:8.0 CaO:4.0 MgO:2.0 SO3:4.99 N_NH4:0.5 N_NO3:3.75 P:3.49 K:6.64 Ca:2.86 Mg:1.21 S:2.0 Fe:0.01
+
+Ghe flora nova grow
+A
+N:7.0 P2O5:4.01 K2O:10.0 CaO:4.0 MgO:1.5 SO3:4.99 N_NH4:0.9 N_NO3:6.1 P:1.75 K:8.3 Ca:2.86 Mg:0.9 S:2.0 Fe:0.1
+
+Ghe micro
+A
+N:5.05 K2O:0.01 CaO:0.01 N_NH4:5.0 N_NO3:0.04 N_NH2:0.01 K:0.01 Ca:0.01
+
+Go drip micro
+B
+MgO:9.0 SO3:22.6 Mg:5.43 S:9.04 Fe:4.0 Zn:1.5 Cu:1.5 Mn:4.0 Mo:0.1 B:0.5
+
+Gofrabik70
+B
+SO3:174.79 S:70.0
+
+Granusol microhigh mgo
+B
+MgO:10.0 SO3:20.3 Mg:6.03 S:8.12 Fe:3.75 Zn:0.5 Cu:1.5 Mn:2.5 Mo:0.05 B:0.9
+
+Green house additive feeding calcium
+A
+CaO:12.59 Ca:9.0
+
+Green калиевая селитра
+B
+N:13.0 K2O:46.0 N_NO3:13.0 K:38.19
+
+Greengo (8-16-24)
+A
+N:8.0 P2O5:16.0 K2O:24.0 CaO:10.0 N_NO3:8.0 P:6.98 K:19.92 Ca:7.15 Fe:0.04 Zn:0.02 Cu:0.02 Mn:0.02 Mo:0.01 B:0.02
+
+Growth technology ionic cal-mag pro
+A
+N:3.85 CaO:5.6 MgO:4.01 N_NH4:0.31 N_NO3:3.54 Ca:4.0 Mg:2.42 Fe:0.15
+
+Growth technology ionic soil grow
+A
+N:1.76 P2O5:1.42 K2O:2.6 CaO:1.01 N_NH4:0.29 N_NO3:1.47 P:0.62 K:2.16 Ca:0.72 Fe:0.04 Mn:0.01
+
+Haifa cal™ prime
+A
+N:17.0 CaO:33.0 N_NH4:0.3 N_NO3:16.7 Ca:23.58
+
+Haifa foliar plus 3-13-38 (yellow)
+B
+N:3.0 P2O5:29.79 K2O:45.77 N_NO3:3.0 P:13.0 K:38.0 Fe:0.23 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Haifa foliar plus 7-52-17 (red)
+B
+N:7.0 P2O5:119.15 K2O:20.48 N_NH4:7.0 P:52.0 K:17.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.03 B:0.01
+
+Haifa mkp™ - חד אשלגן זרחתי (מ.ק.פ) 0-52-34 אתר את המפיץ הקרוב אליך יצירת קשר שם מלא מדינה טלפון טלפון +1 201-555-0123 דוא"ל תחום התמחות אני מסכים לקבל מידע באמצעות דוא"ל
+B
+P2O5:5.0 K2O:34.0 P:2.18 K:28.23
+
+Haifa multi-micro comb (edta)
+B
+Fe:7.5 Zn:1.3 Cu:0.3 Mn:3.3 Mo:0.2 B:1.3
+
+Haifa vitaphos-k 4-31-49
+B
+N:4.0 P2O5:31.0 K2O:49.0 N_NO3:4.0 P:13.53 K:40.68
+
+Hakaphos basis 3 3+15+36(+4)
+B
+N:3.0 P2O5:15.0 K2O:36.0 MgO:4.0 N_NO3:3.0 P:6.55 K:29.89 Mg:2.41 Fe:0.2 Zn:0.01 Cu:0.02 Mn:0.05 B:0.01
+
+Hb-101 в гранулах
+B
+Si:74.5
+
+Hesi bloom complex
+B
+N:3.0 P2O5:2.6 K2O:3.6 N_NO3:2.0 N_NH2:1.0 P:1.13 K:2.99
+
+Hesi boost
+B
+P2O5:1.0 K2O:1.0 P:0.44 K:0.83
+
+Hesi coco
+B
+N:3.0 P2O5:3.9 K2O:5.1 N_NH4:3.0 P:1.7 K:4.23
+
+Hesi coco npk 3-4-5
+B
+N:3.0 P2O5:3.9 K2O:5.1 N_NH4:3.0 P:1.7 K:4.23
+
+Hesi phosphorus plus
+B
+P2O5:7.2 K2O:5.1 P:3.14 K:4.23
+
+Hesi pk
+B
+P2O5:9.0 K2O:7.2 P:3.93 K:5.98
+
+Hy-pro terra
+B
+N:2.2 P2O5:5.1 K2O:4.4 N_NO3:2.2 P:2.23 K:3.65
+
+Icl peters 5-11-26
+B
+N:5.0 P2O5:11.0 K2O:26.0 MgO:9.95 SO3:19.98 N_NO3:5.0 P:4.8 K:21.58 Mg:6.0 S:8.0 Fe:0.3 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.05
+
+Jacks hydro 0-12-26
+B
+P2O5:12.0 K2O:26.0 MgO:9.95 SO3:32.46 P:5.24 K:21.58 Mg:6.0 S:13.0 Fe:0.3 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.05
+
+Jacks hydro 10-30-20
+B
+N:10.0 P2O5:30.0 K2O:20.0 MgO:0.83 SO3:2.0 N_NH4:5.0 N_NO3:5.0 P:13.09 K:16.6 Mg:0.5 S:0.8 Fe:0.1 Zn:0.05 Cu:0.05 Mn:0.05 B:0.02
+
+Jacks hydro 15-5-20
+A
+N:15.0 P2O5:5.0 K2O:20.0 CaO:4.2 MgO:2.49 N_NH4:3.0 N_NO3:12.0 P:2.18 K:16.6 Ca:3.0 Mg:1.5 Fe:0.15 Zn:0.05 Cu:0.02 Mn:0.08 B:0.02
+
+Jacks hydro 15-6-17
+A
+N:15.0 P2O5:6.0 K2O:17.0 CaO:5.6 MgO:2.99 N_NH4:3.0 N_NO3:12.0 P:2.62 K:14.11 Ca:4.0 Mg:1.8 Fe:0.23 Zn:0.05 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Jacks hydro 5-12-26
+B
+N:5.0 P2O5:12.0 K2O:26.0 MgO:10.48 SO3:20.5 N_NO3:5.0 P:5.24 K:21.58 Mg:6.32 S:8.21 Fe:0.3 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.05
+
+Jacks hydro 7-15-30
+B
+N:7.0 P2O5:15.0 K2O:30.0 MgO:3.32 SO3:24.22 N_NH4:3.0 N_NO3:4.0 P:6.55 K:24.9 Mg:2.0 S:9.7 Fe:0.07 Zn:0.05 Cu:0.05 Mn:0.05 B:0.02
+
+Jack’s elementals - most
+B
+MgO:0.66 SO3:32.46 Mg:0.4 S:13.0 Fe:7.5 Zn:4.5 Cu:2.3 Mn:8.0 Mo:0.04 B:1.35
+
+Jungle juice advanced nutrients
+B
+N:2.0 P2O5:1.0 K2O:6.0 MgO:0.83 N_NH4:0.25 N_NO3:1.75 P:0.44 K:4.98 Mg:0.5
+
+K+s epsotop (магния сульфат)
+B
+MgO:16.0 SO3:32.5 Mg:9.65 S:13.01
+
+Kali
+B
+N:11.0 P2O5:12.0 K2O:38.0 N_NO3:8.3 N_NH2:2.7 P:5.24 K:31.55 Fe:0.15 Zn:0.07 Cu:0.03 Mn:0.07 B:0.03
+
+Kelik molybdenum
+B
+Mo:10.0
+
+Kelkat mix-edta
+B
+Fe:8.1 Zn:0.6 Cu:0.3 Mn:3.5 Mo:0.3 B:0.95
+
+Kf micro
+A
+N:1.8 CaO:0.42 MgO:0.5 N_NH2:1.8 Ca:0.3 Mg:0.3 Fe:3.4 Zn:0.1 Mn:1.8 Mo:0.1 B:0.19
+
+Kf-garden-balcony
+A
+N:2.8 K2O:5.64 CaO:0.01 N_NH2:2.8 K:4.68 Ca:0.01
+
+Ki мс1
+B
+K2O:28.37 K:23.55
+
+Kristalon 15-5-30+3mgo (белый)
+B
+N:15.0 P2O5:5.0 K2O:30.0 MgO:3.0 SO3:4.99 N_NH4:3.7 N_NO3:11.3 P:2.18 K:24.9 Mg:1.81 S:2.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Kristalon 19-6-20+3mgo (голубой)
+B
+N:19.0 P2O5:6.0 K2O:20.0 MgO:3.0 SO3:7.49 N_NH4:7.1 N_NO3:11.9 P:2.62 K:16.6 Mg:1.81 S:3.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Kristalon 8-11-37+5mgo (томатный) фертика
+B
+N:7.5 P2O5:12.01 K2O:36.0 MgO:4.49 SO3:9.99 N_NO3:7.5 P:5.24 K:29.89 Mg:2.71 S:4.0 Fe:0.15 Zn:0.03 Cu:0.04 Mn:0.06 B:0.03
+
+Kristalon 12-12-36 (красный)
+B
+N:12.0 P2O5:12.01 K2O:36.01 MgO:1.0 SO3:2.5 N_NH4:1.9 N_NO3:10.1 P:5.24 K:29.89 Mg:0.6 S:1.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Kristalon 13-40-13 (желтый)
+B
+N:13.0 P2O5:40.0 K2O:13.0 N_NH4:8.6 N_NO3:4.4 P:17.46 K:10.79 Fe:0.07 Zn:0.03 Cu:0.04 Mn:0.04 B:0.03
+
+Kristalon 14-11-31+5mgo огуречный
+B
+N:14.0 P2O5:11.0 K2O:31.0 MgO:2.5 SO3:5.0 N_NH4:14.0 P:4.8 K:25.73 Mg:1.51 S:2.0 Fe:0.15 Zn:0.01 Cu:0.01 Mn:0.1 Mo:0.02 B:0.02
+
+Kristalon 3-11-38 (коричневый)
+B
+N:3.0 P2O5:11.0 K2O:38.01 MgO:4.0 SO3:27.47 N_NO3:3.0 P:4.8 K:31.55 Mg:2.41 S:11.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Kristalon 6-12-36 (orange)
+B
+N:6.0 P2O5:12.0 K2O:36.0 MgO:3.0 SO3:19.98 N_NH4:1.5 N_NO3:4.5 P:5.24 K:29.89 Mg:1.81 S:8.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Kristalon scarlet (yaratera томатный)
+B
+N:7.5 P2O5:12.0 K2O:36.0 MgO:4.5 SO3:10.0 N_NO3:7.5 P:5.24 K:29.89 Mg:2.71 S:4.0 Fe:0.15 Zn:0.03 Mn:0.06 B:0.03
+
+Kristalon special yara tera
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:3.0 SO3:5.0 N_NH4:3.3 N_NO3:14.7 P:7.86 K:14.94 Mg:1.81 S:2.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Lat complex 15-15-15
+B
+N:15.0 P2O5:15.0 K2O:15.0 SO3:8.0 N_NH4:9.0 N_NO3:6.0 P:6.55 K:12.45 S:3.2 Zn:0.01
+
+Lechuza perfect citrus
+B
+N:6.0 P2O5:5.0 K2O:6.0 N_NH4:1.9 N_NO3:1.8 N_NH2:2.3 P:2.18 K:4.98 Fe:0.02 Mn:0.01 B:0.01
+
+Lettuce mb
+B
+N:8.0 P2O5:15.0 K2O:36.0 MgO:0.81 N_NH4:0.5 N_NO3:7.5 P:6.55 K:29.89 Mg:0.49
+
+Magnesium sulphate chemrich
+B
+MgO:16.58 SO3:32.46 Mg:10.0 S:13.0
+
+Master 13.40.13
+B
+N:13.0 P2O5:40.0 K2O:13.0 SO3:7.49 N_NH4:9.3 N_NO3:3.7 P:17.46 K:10.79 S:3.0 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.03 B:0.02
+
+Master 18:18:18
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:3.0 SO3:6.0 N_NH4:3.5 N_NO3:5.1 N_NH2:9.4 P:7.86 K:14.94 Mg:1.81 S:2.4 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.03 B:0.02
+
+Master 3.11.38.4 valagro
+B
+N:3.0 P2O5:11.0 K2O:38.0 MgO:4.0 SO3:27.0 N_NO3:3.0 P:4.8 K:31.55 Mg:2.41 S:10.8 Fe:0.07 Zn:0.01 Cu:0.05 Mn:0.03 B:0.02
+
+Masterblend 4-18-38
+B
+N:4.0 P2O5:18.0 K2O:38.0 MgO:0.83 N_NH4:0.5 N_NO3:3.5 P:7.86 K:31.55 Mg:0.5 Fe:0.4 Zn:0.05 Cu:0.05 Mn:0.2 Mo:0.01 B:0.2
+
+Masterblend 8-15-36
+B
+N:8.0 P2O5:15.0 K2O:36.0 MgO:0.81 N_NH4:0.5 N_NO3:7.5 P:6.55 K:29.89 Mg:0.49
+
+Masterblend lettuce
+B
+N:8.0 P2O5:15.0 K2O:36.0 MgO:0.81 N_NH4:0.5 N_NO3:7.5 P:6.55 K:29.89 Mg:0.49 Fe:0.4 Zn:0.05 Cu:0.02 Mn:0.2 Mo:0.01 B:0.2
+
+Max fruit
+B
+Fe:5.0 Zn:9.0 Mn:5.0 B:1.5
+
+Miracle fertilizer
+A
+N:12.0 P2O5:4.0 K2O:8.0 CaO:10.63 MgO:4.15 SO3:7.99 N_NH2:12.0 P:1.75 K:6.64 Ca:7.6 Mg:2.5 S:3.2 Fe:0.95 Zn:0.12 Cu:0.06 Mn:0.35
+
+Miracle fertilizers
+A
+N:10.0 P2O5:4.0 K2O:8.0 CaO:10.63 MgO:4.15 SO3:7.99 N_NO3:10.0 P:1.75 K:6.64 Ca:7.6 Mg:2.5 S:3.2 Fe:0.95 Zn:0.12 Cu:0.06 Mn:0.35
+
+Mix edta water soluble
+B
+MgO:6.63 Mg:4.0 Fe:3.0 Zn:1.0 Cu:1.0 Mn:3.0 Mo:0.1 B:0.5
+
+Mnso4*4h2o мс1
+B
+SO3:35.89 S:14.36 Mn:24.63
+
+Multi-k™ חנקת אשלגן -13-0-46
+B
+N:13.5 K2O:46.2 N_NO3:13.5 K:38.35
+
+Multi-k™ חנקת אשלגן -13-0-46 אתר את המפיץ הקרוב אליך יצירת קשר שם מלא מדינה טלפון טלפון +1 201-555-0123 דוא"ל תחום התמחות אני מסכים לקבל מידע באמצעות דוא"ל חנקת אשלגן מסיסה דשן מסיס להדשייה והזנה עלוותית
+B
+N:13.5 K2O:46.0 N_NO3:13.5 K:38.19
+
+Murtonik 19-9-27
+B
+N:19.0 P2O5:9.0 K2O:27.0 N_NO3:19.0 P:3.93 K:22.41 Fe:0.04 Zn:0.01 Cu:0.02 Mn:0.02 B:0.01
+
+Namoo4*2h2o мс1
+B
+Mo:43.82
+
+Nawoz we сульфат магния, магний сернокислый (семиводный)
+B
+MgO:16.0 SO3:32.0 Mg:9.65 S:12.81
+
+Nitro
+B
+N:31.0 P2O5:12.0 K2O:10.0 N_NH2:31.0 P:5.24 K:8.3 Fe:0.15 Zn:0.07 Cu:0.03 Mn:0.07 Mo:0.02 B:0.03
+
+Nova map 12-61-0
+B
+N:12.0 P2O5:61.0 N_NH4:12.0 P:26.62
+
+Novatec solub 14-48-0
+B
+N:14.0 P2O5:48.0 SO3:11.99 N_NH4:14.0 P:20.95 S:4.8
+
+Novatec solub k-max 10-5-30
+B
+N:10.0 P2O5:5.0 K2O:30.0 MgO:2.0 SO3:29.96 N_NH4:6.0 N_NO3:4.0 P:2.18 K:24.9 Mg:1.21 S:12.0 Fe:0.05 Zn:0.02 Cu:0.02 Mn:0.05 B:0.01
+
+Nutritech pekacid 0:60:20
+B
+P2O5:60.0 K2O:20.0 P:26.19 K:16.6
+
+Orange si14 (кремний)
+B
+K2O:7.0 K:5.81 Si:6.32
+
+Orange tree calmag
+A
+N:0.9 CaO:4.2 MgO:1.2 N_NH4:0.9 Ca:3.0 Mg:0.72
+
+Orange tree coco a&b
+A
+N:4.7 P2O5:4.0 K2O:3.7 CaO:6.3 N_NO3:4.7 P:1.75 K:3.07 Ca:4.5
+
+Orange tree pk boost
+B
+P2O5:8.0 K2O:9.0 P:3.49 K:7.47
+
+P k mg s
+B
+P2O5:1.67 K2O:2.08 MgO:0.68 SO3:0.83 P:0.73 K:1.73 Mg:0.41 S:0.33
+
+Pdjj
+B
+P2O5:10.0 P:4.36
+
+Peters professional combi sol 6-18-36+3mgo+te
+B
+N:6.0 P2O5:18.0 K2O:36.0 MgO:3.0 N_NO3:6.0 P:7.86 K:29.89 Mg:1.81 Fe:0.25 Zn:0.01 Cu:0.01 Mn:0.06 Mo:0.01 B:0.02
+
+Peters professional stem
+B
+SO3:32.46 S:13.0 Fe:7.5 Zn:4.5 Cu:2.3 Mn:8.0 Mo:0.04 B:1.35
+
+Pk 52-34 + triacontanol bud booster
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23
+
+Pk boost
+B
+P2O5:8.0 K2O:9.0 P:3.49 K:7.47
+
+Plagron alga bloom
+B
+N:3.3 P2O5:2.3 K2O:5.4 N_NH4:0.7 N_NH2:2.6 P:1.0 K:4.48 Fe:0.02 Zn:0.01 Mn:0.01 B:0.01
+
+Plagron calmag pro
+A
+N:5.1 CaO:5.7 MgO:3.3 N_NO3:5.1 Ca:4.07 Mg:1.99
+
+Plagron cocos a
+A
+N:3.7 K2O:2.8 CaO:4.2 N_NH4:0.6 N_NO3:3.1 K:2.32 Ca:3.0 Fe:0.03
+
+Plagron cocos a (формула до 12.2023)
+A
+N:3.9 K2O:1.0 CaO:6.8 MgO:0.8 N_NH4:3.9 K:0.83 Ca:4.86 Mg:0.48 Fe:0.02
+
+Plagron cocos b
+B
+N:0.3 P2O5:3.3 K2O:2.1 MgO:1.8 SO3:2.7 N_NO3:0.3 P:1.44 K:1.74 Mg:1.09 S:1.08 Zn:0.01 Mn:0.02 B:0.01
+
+Plagron green sensation
+B
+N:0.5 P2O5:8.3 K2O:9.1 N_NH4:0.5 P:3.62 K:7.55 Fe:0.9
+
+Plagron hydro a
+A
+N:3.2 K2O:1.3 CaO:5.9 MgO:0.4 N_NO3:3.2 K:1.08 Ca:4.22 Mg:0.24
+
+Plagron hydro b
+B
+N:1.1 P2O5:3.2 K2O:5.7 MgO:1.4 SO3:2.8 N_NO3:1.1 P:1.4 K:4.73 Mg:0.84 S:1.12 Fe:0.04 Zn:0.01 Mn:0.03 B:0.01
+
+Plagron hydro roots
+B
+P2O5:20.4 P:8.9 B:0.2
+
+Plagron lemon kick
+B
+SO3:0.3 S:0.12 Fe:0.2
+
+Plagron pk 13-14
+B
+P2O5:13.4 K2O:14.4 P:5.85 K:11.95
+
+Plagron power buds
+B
+N:0.4 K2O:1.8 N_NH2:0.4 K:1.49
+
+Plagron power roots
+B
+N:1.0 P2O5:0.2 K2O:1.5 N_NH2:1.0 P:0.09 K:1.25
+
+Plagron seedbooster pro
+B
+N:4.8 P2O5:4.3 K2O:6.7 N_NH4:3.2 N_NO3:1.6 P:1.88 K:5.56 Zn:0.01 Mn:0.02
+
+Plagron silic rock
+A
+N:1.5 K2O:1.7 N_NO3:1.5 K:1.41 Si:1.1
+
+Plagron sugar royal
+B
+N:8.5 N_NH2:8.5
+
+Plagron terra grow
+B
+N:2.6 P2O5:1.1 K2O:3.1 MgO:1.3 SO3:0.7 N_NH4:0.6 N_NO3:2.0 P:0.48 K:2.57 Mg:0.78 S:0.28 Fe:0.01 Zn:0.01 Mn:0.01 B:0.01
+
+Plagron terrabloom
+B
+N:2.1 P2O5:1.7 K2O:3.8 MgO:0.8 SO3:1.4 N_NH4:0.5 N_NO3:1.6 P:0.74 K:3.15 Mg:0.48 S:0.56 Fe:0.01 Zn:0.01 Mn:0.01 B:0.01
+
+Plantafol 20-20-20
+B
+N:20.0 P2O5:20.0 K2O:20.0 N_NH4:2.0 N_NO3:4.0 N_NH2:14.0 P:8.73 K:16.6 Fe:0.1 Zn:0.05 Cu:0.05 Mn:0.05 B:0.02
+
+Plantators гидра рост b
+B
+N:1.0 P2O5:1.0 K2O:2.0 MgO:1.0 N_NO3:1.0 P:0.44 K:1.66 Mg:0.6
+
+Plantators гидра рост а
+A
+N:4.0 K2O:2.0 CaO:4.0 N_NO3:4.0 K:1.66 Ca:2.86
+
+Plantators гидра цвет a
+A
+N:3.13 K2O:4.06 CaO:3.4 N_NO3:3.13 K:3.37 Ca:2.43
+
+Plantators гидра цвет b
+B
+N:0.08 P2O5:3.79 K2O:3.09 MgO:1.36 N_NH4:0.08 P:1.65 K:2.57 Mg:0.82 Si:1.27
+
+Plantators силиконика
+B
+K2O:4.21 K:3.49 Si:3.6
+
+Plenty
+B
+Fe:0.12 Zn:0.03 Mn:0.05 B:0.04
+
+Plonvit phospho
+B
+N:11.0 P2O5:53.0 K2O:5.0 N_NH4:9.2 N_NH2:1.8 P:23.13 K:4.15 Fe:0.15 Zn:0.07 Cu:0.03 Mn:0.7 B:0.03
+
+Poligro 4-12-39+mэ
+B
+N:4.0 P2O5:12.0 K2O:39.0 MgO:3.0 SO3:54.93 N_NO3:4.0 P:5.24 K:32.38 Mg:1.81 S:22.0 Fe:0.2 Zn:0.03 Cu:0.01 Mn:0.1 Mo:0.01 B:0.04
+
+Poly-feed™ foliar - דשן כל לריסוס עלוותי אתר את המפיץ הקרוב אליך יצירת קשר שם מלא מדינה טלפון טלפון +1 201-555-0123 דוא"ל תחום התמחות אני מסכים לקבל מידע באמצעות דוא"ל דשן npk 21-21-21 מסיס על בסיס אוראה עם מיקרו-אלמנטים.
+B
+N:21.0 P2O5:21.0 K2O:21.0 N_NO3:2.3 N_NH2:18.7 P:9.16 K:17.43 Fe:0.13 Zn:0.02 Cu:0.01 Mn:0.07 Mo:0.01 B:0.02
+
+Potassium nitrate
+A
+N:13.7 K2O:46.3 N_NO3:13.7 K:38.44
+
+Powder feeding
+B
+N:24.0 P2O5:6.0 K2O:12.0 MgO:1.99 N_NH4:11.0 N_NO3:13.0 P:2.62 K:9.96 Mg:1.2 Fe:0.1 Zn:0.01 Cu:0.04 Mn:0.05 Mo:0.01 B:0.02
+
+Powder feeding calmag supernova
+A
+N:13.5 CaO:16.7 MgO:6.0 N_NH4:0.4 N_NO3:13.1 Ca:11.94 Mg:3.62
+
+Random micro-complex
+B
+Fe:7.0 Zn:0.4 Cu:0.1 Mn:2.0 Mo:0.06 B:1.3
+
+Rastea calmag
+A
+N:6.0 CaO:12.0 MgO:2.82 N_NO3:6.0 Ca:8.58 Mg:1.7
+
+Rastea eco-hydro calmag
+A
+N:5.0 CaO:10.0 MgO:2.35 N_NO3:5.0 Ca:7.15 Mg:1.42
+
+Rastea eco-hydro vega a + b
+A
+N:7.0 P2O5:3.0 K2O:9.0 CaO:1.0 MgO:0.5 SO3:2.5 N_NH4:2.0 N_NO3:3.5 N_NH2:1.5 P:1.31 K:7.47 Ca:0.71 Mg:0.3 S:1.0 Fe:0.12 Zn:0.02 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Rastea eco-hydro vega a/b
+A
+N:7.0 P2O5:3.0 K2O:9.0 CaO:1.0 MgO:0.5 SO3:2.5 N_NH4:2.0 N_NO3:3.5 N_NH2:1.5 P:1.31 K:7.47 Ca:0.71 Mg:0.3 S:1.0 Fe:0.12 Zn:0.02 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Rastea ph down nitro
+A
+N:7.78 N_NO3:7.78
+
+Rastea pk 13/14 mgo/so3
+B
+P2O5:13.0 K2O:14.0 MgO:3.0 SO3:2.5 P:5.67 K:11.62 Mg:1.81 S:1.0
+
+Rmx 26 mikro
+B
+MgO:9.0 Mg:5.43 Fe:4.0 Zn:1.5 Cu:1.5 Mn:4.0 Mo:0.1 B:0.5 Co:0.5
+
+Root juice biobizz
+B
+N:0.1 P2O5:0.1 K2O:0.1 N_NO3:0.1 P:0.04 K:0.08 Zn:0.04 B:0.03
+
+Samozames v1.0.0
+A
+N:5.24 P2O5:3.0 K2O:7.0 CaO:4.0 MgO:2.5 SO3:3.6 N_NH4:4.77 N_NO3:0.47 P:1.31 K:5.81 Ca:2.86 Mg:1.51 S:1.44
+
+Scalex 11-52-8+me
+B
+N:11.0 P2O5:52.0 K2O:8.0 N_NH4:8.0 N_NH2:3.0 P:22.69 K:6.64 Fe:0.02 Zn:0.04 Cu:0.01 Mn:0.01 Mo:0.01 B:0.01
+
+Scalex combi
+B
+Fe:5.0 Zn:8.0 Cu:1.0 Mn:6.0
+
+Scalex mikro
+B
+Fe:5.0 Zn:8.0 Cu:1.0 Mn:6.0 B:0.5
+
+Scalex mo-b-zn
+B
+Fe:1.0 Zn:10.0 Mo:4.0 B:4.0
+
+Scalex zn-mn
+B
+Zn:12.0 Mn:15.0
+
+Simplex aroma punch
+B
+K2O:5.4 SO3:4.6 K:4.48 S:1.84
+
+Simplex barrel
+B
+K2O:5.0 K:4.15 Si:5.15
+
+Simplex calmag plus
+A
+N:1.68 K2O:0.17 CaO:5.12 MgO:2.4 N_NO3:1.68 K:0.14 Ca:3.66 Mg:1.45
+
+Simplex coco a
+A
+N:5.64 CaO:7.59 MgO:2.19 N_NH4:0.21 N_NO3:5.43 Ca:5.42 Mg:1.32 Fe:0.03 Zn:0.01 Mn:0.02 B:0.01
+
+Simplex coco b
+B
+P2O5:4.18 K2O:3.3 MgO:1.06 SO3:2.57 P:1.82 K:2.74 Mg:0.64 S:1.03
+
+Simplex hydro bloom a (без микры)
+A
+N:4.02 K2O:5.1 CaO:4.18 N_NH4:0.22 N_NO3:3.8 K:4.23 Ca:2.99
+
+Simplex hydro bloom b (без микры)
+B
+N:0.49 P2O5:5.2 K2O:3.3 MgO:1.6 SO3:3.25 N_NH4:0.27 N_NO3:0.22 P:2.27 K:2.74 Mg:0.96 S:1.3
+
+Simplex hydro vega a (без микры)
+A
+N:5.88 K2O:5.3 CaO:4.1 N_NH4:1.08 N_NO3:4.8 K:4.4 Ca:2.93
+
+Simplex hydro vega b (без микры)
+B
+N:0.1 P2O5:2.5 K2O:1.5 MgO:1.35 SO3:2.88 N_NH4:0.1 P:1.09 K:1.25 Mg:0.81 S:1.15
+
+Simplex silicx
+B
+K2O:7.0 K:5.81 Si:10.0
+
+Simplex solid
+B
+P2O5:8.09 K2O:10.14 P:3.53 K:8.42 Fe:0.03 Zn:0.01 Cu:0.01 Mn:0.02 B:0.02
+
+Simplex taste
+B
+MgO:0.16 SO3:0.33 Mg:0.1 S:0.13
+
+Solar 12-6-36+2.5mgo + мэ (финал) уралхим
+B
+N:12.0 P2O5:6.0 K2O:36.0 MgO:2.5 SO3:12.48 N_NH4:1.4 N_NO3:10.6 P:2.62 K:29.89 Mg:1.51 S:5.0 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Solar 3:11:38+мэ
+B
+N:3.0 P2O5:11.0 K2O:38.0 N_NH4:2.8 N_NO3:0.2 P:4.8 K:31.55 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Solar старт 13-40-13+mэ
+B
+N:13.0 P2O5:40.0 K2O:13.0 MgO:3.32 N_NH4:8.5 N_NO3:4.5 P:17.46 K:10.79 Mg:2.0 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Solar финал 15-7-30+3mgo+мэ
+B
+N:15.0 P2O5:7.0 K2O:30.0 MgO:3.0 N_NH4:1.4 N_NO3:8.7 N_NH2:4.9 P:3.05 K:24.9 Mg:1.81 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Solar финал 3-11-38+4mgo+мэ
+B
+N:3.0 P2O5:11.0 K2O:38.0 MgO:6.63 N_NO3:3.0 P:4.8 K:31.55 Mg:4.0 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Stimgarden
+A
+N:10.9 P2O5:6.9 K2O:20.8 CaO:11.4 MgO:2.6 SO3:5.8 N_NH4:10.9 P:3.01 K:17.27 Ca:8.15 Mg:1.57 S:2.32 Fe:0.09 Zn:0.02 Cu:0.01 Mo:0.01 B:0.02
+
+Sulvit
+B
+N:15.0 SO3:57.5 N_NH4:10.5 N_NH2:4.5 S:23.01
+
+T.a calmag
+A
+N:2.5 CaO:4.0 MgO:1.0 N_NH4:0.14 N_NO3:2.36 Ca:2.86 Mg:0.6
+
+T.a. dual part sw b
+B
+N:1.0 P2O5:5.0 K2O:3.5 MgO:3.0 SO3:5.0 N_NH4:0.6 N_NO3:0.4 P:2.18 K:2.91 Mg:1.81 S:2.0 Fe:0.01 Mn:0.01 B:0.01
+
+T.a. dualpart grow sw
+A
+N:5.0 K2O:5.2 CaO:3.4 N_NH4:0.5 N_NO3:3.5 N_NH2:1.0 K:4.32 Ca:2.43 Fe:0.06 Zn:0.01 Cu:0.01 Mn:0.02 B:0.01
+
+T.a. novamax grow
+A
+N:7.0 P2O5:4.0 K2O:10.0 CaO:4.0 MgO:1.5 SO3:20.0 N_NH4:0.9 N_NO3:6.1 P:1.75 K:8.3 Ca:2.86 Mg:0.9 S:8.0 Fe:0.1
+
+T.a. tripart micro (soft water)
+A
+N:5.0 K2O:1.5 CaO:6.0 N_NH4:1.0 N_NO3:4.0 K:1.25 Ca:4.29 Fe:0.12 Zn:0.02 Cu:0.01 Mn:0.07 B:0.01
+
+Terra aquatica calcium magnesium
+A
+N:2.5 CaO:4.0 MgO:1.0 N_NH4:0.14 N_NO3:2.36 Ca:2.86 Mg:0.6
+
+Terra bloom
+B
+N:3.0 P2O5:3.0 K2O:6.0 N_NO3:3.0 P:1.31 K:4.98
+
+Terra vega
+B
+N:5.0 P2O5:1.0 K2O:5.0 N_NO3:5.0 P:0.44 K:4.15
+
+Tnt complex
+B
+N:2.8 P2O5:2.2 K2O:3.1 N_NH4:2.8 P:0.96 K:2.57
+
+Tradecorb az plus
+B
+N:5.7 N_NO3:5.7 Fe:6.0 Zn:1.2 Cu:0.6 Mn:2.5 Mo:0.4 B:0.5
+
+Tradecorp az plus
+B
+Fe:6.0 Zn:1.2 Cu:0.6 Mn:2.5 Mo:0.4 B:0.5 Co:0.02
+
+Tripart bloom
+B
+P2O5:5.0 K2O:4.0 MgO:3.0 SO3:5.0 P:2.18 K:3.32 Mg:1.81 S:2.0
+
+Tripart grow
+B
+N:3.0 P2O5:1.0 K2O:6.0 MgO:0.8 N_NH4:1.0 N_NO3:2.0 P:0.44 K:4.98 Mg:0.48
+
+Tripart micro
+A
+N:5.0 K2O:1.3 CaO:1.4 N_NH4:1.5 N_NO3:3.5 K:1.08 Ca:1.0 Fe:0.12 Zn:0.02 Cu:0.01 Mn:0.07 B:0.01
+
+Trąšos bulvėms garden center 5-10-25 (12)
+B
+N:5.0 P2O5:10.0 K2O:25.0 SO3:12.0 N_NH4:5.0 P:4.36 K:20.75 S:4.8
+
+Ultraferro (eddha fe)
+B
+Fe:6.0
+
+Unirezerv 765
+B
+Fe:6.0 Zn:7.0 Cu:1.0 Mn:5.0 B:2.0
+
+Universal basis
+B
+N:4.0 P2O5:19.0 K2O:35.0 MgO:4.1 SO3:15.5 N_NO3:4.0 P:8.29 K:29.06 Mg:2.47 S:6.2 Fe:0.12 Zn:0.02 Cu:0.02 Mn:0.08 B:0.02
+
+Universol orange универсол клубника ilc голландия
+B
+N:16.0 P2O5:5.0 K2O:25.0 MgO:3.4 SO3:10.8 N_NH4:5.2 N_NO3:10.4 N_NH2:0.4 P:2.18 K:20.75 Mg:2.05 S:4.32 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.04 Mo:0.01 B:0.01
+
+Universol® basis
+B
+N:4.0 P2O5:19.0 K2O:35.0 MgO:4.1 N_NO3:4.0 P:8.29 K:29.06 Mg:2.47 Fe:0.12 Zn:0.02 Cu:0.02 Mn:0.08 B:0.02
+
+Universol® blue
+B
+N:18.0 P2O5:11.0 K2O:18.0 MgO:2.5 N_NH4:7.7 N_NO3:9.9 N_NH2:0.4 P:4.8 K:14.94 Mg:1.51 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.04 B:0.01
+
+Universol® green
+B
+N:23.0 P2O5:6.0 K2O:10.0 MgO:2.7 N_NH4:11.0 N_NO3:11.6 N_NH2:0.4 P:2.62 K:8.3 Mg:1.63 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.04 B:0.01
+
+Universol® orange
+B
+N:16.0 P2O5:5.0 K2O:25.0 MgO:3.4 N_NH4:5.2 N_NO3:10.4 N_NH2:0.4 P:2.18 K:20.75 Mg:2.05 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.04 B:0.01
+
+Universol® violet
+B
+N:10.0 P2O5:10.0 K2O:31.0 MgO:3.3 N_NH4:2.8 N_NO3:6.8 N_NH2:0.4 P:4.36 K:25.73 Mg:1.99 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.04 B:0.01
+
+Universol® violet скорректирован
+B
+N:10.0 P2O5:10.0 K2O:30.0 MgO:3.3 SO3:15.6 N_NH4:2.8 N_NO3:6.8 N_NH2:0.4 P:4.36 K:24.9 Mg:1.99 S:6.24 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.04 B:0.01
+
+Universol® yellow
+B
+N:12.0 P2O5:30.0 K2O:12.0 MgO:2.2 N_NH4:8.6 N_NO3:3.0 N_NH2:0.4 P:13.09 K:9.96 Mg:1.33 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.04 B:0.01
+
+Valagro brexil combi (микроэлементы)
+B
+Fe:6.8 Zn:1.1 Cu:0.3 Mn:2.6 Mo:0.2 B:0.9
+
+Valagro master 3.11.38+4
+B
+N:3.0 P2O5:11.0 K2O:38.0 MgO:4.0 SO3:27.0 N_NO3:3.0 P:4.8 K:31.55 Mg:2.41 S:10.8 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.03 B:0.02
+
+Vegetation
+A
+N:3.34 P2O5:3.39 K2O:3.32 CaO:2.35 MgO:1.89 SO3:1.35 N_NH4:0.5 N_NO3:2.84 P:1.48 K:2.76 Ca:1.68 Mg:1.14 S:0.54
+
+Wapnovit turbo
+A
+N:8.0 CaO:17.0 N_NO3:8.0 Ca:12.15 Zn:0.02 Cu:0.02 B:0.05
+
+Wesco-ca 9% calcium edta
+A
+CaO:12.59 Ca:9.0
+
+Wuxal suspensium calcium
+A
+N:10.0 CaO:15.0 MgO:2.0 N_NO3:10.0 Ca:10.72 Mg:1.21 Fe:0.05 Zn:0.02 Cu:0.04 Mn:0.1 B:0.05
+
+Yara ferticare combi 1
+B
+N:14.0 P2O5:11.5 K2O:25.0 MgO:3.81 SO3:13.8 N_NO3:14.0 P:5.02 K:20.75 Mg:2.3 S:5.53 Fe:0.11 Zn:0.01 Cu:0.01 Mn:0.1 B:0.02
+
+Yara tera tenso coctail
+A
+CaO:3.6 MgO:4.26 Ca:2.57 Mg:2.57 Fe:3.84 Cu:0.53 Mo:0.13 B:0.52
+
+Yara vita rexolin q40
+B
+Fe:6.0
+
+Yaramila complex 12-11-18
+B
+N:12.0 P2O5:11.0 K2O:18.0 MgO:2.7 SO3:20.0 N_NH4:7.0 N_NO3:5.0 P:4.8 K:14.94 Mg:1.63 S:8.0 Fe:0.2 Zn:0.02 Mn:0.02 B:0.01
+
+Yaramila cropcare 11-11-21
+B
+N:11.0 P2O5:10.5 K2O:21.2 MgO:2.6 SO3:25.0 N_NH4:6.6 N_NO3:4.4 P:4.58 K:17.6 Mg:1.57 S:10.0 Fe:0.08 Zn:0.04 Cu:0.03 Mn:0.25 B:0.05
+
+Yaramila cropcare 8-12-22
+B
+N:8.0 P2O5:12.0 K2O:22.0 MgO:4.2 SO3:31.0 N_NH4:5.6 N_NO3:2.4 P:5.24 K:18.26 Mg:2.53 S:12.4 Cu:0.05 Mn:0.25 B:0.05
+
+Yaratera 0-52-34 монофосфат калия (монокалийфосфат)
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23
+
+Yaratera calcinit (кальция нитрат + аммония нитрат)
+A
+N:15.5 CaO:26.3 N_NH4:1.1 N_NO3:14.4 Ca:18.8
+
+Yaratera ferticare hydro
+B
+N:6.0 P2O5:13.7 K2O:30.1 MgO:4.31 SO3:9.24 N_NO3:6.0 P:5.98 K:24.99 Mg:2.6 S:3.7 Fe:0.2 Zn:0.02 Cu:0.02 Mn:0.14 B:0.03
+
+Yaratera krista k plus (калия нитрат)
+A
+N:13.7 K2O:46.26 N_NO3:13.7 K:38.4
+
+Yaratera krista mgs
+B
+MgO:16.0 SO3:32.5 Mg:9.65 S:13.02
+
+Yaratera krista mgs (магния сульфат)
+B
+MgO:16.0 SO3:32.5 Mg:9.65 S:13.01
+
+Yaratera krista mkp (калия монофосфат)
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23
+
+Yaratera krista sop (калия сульфат)
+B
+K2O:52.04 SO3:44.95 K:43.2 S:18.0
+
+Yaratera kristalon 19-6-6 lilac
+B
+N:19.0 P2O5:6.0 K2O:6.0 MgO:1.0 SO3:40.0 N_NH4:15.6 N_NO3:3.4 P:2.62 K:4.98 Mg:0.6 S:16.01 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Yaratera kristalon lilac lb
+B
+N:20.0 P2O5:8.0 K2O:8.0 MgO:2.0 SO3:25.0 N_NH4:13.2 N_NO3:6.8 P:3.49 K:6.64 Mg:1.21 S:10.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Yaratera tenso cocktail
+A
+CaO:3.6 Ca:2.57 Fe:3.84 Zn:0.53 Cu:0.53 Mn:2.57 Mo:0.13 B:0.52
+
+Yaravita agriphos (1.48г/мл) [г]
+B
+P2O5:43.0 K2O:9.5 P:18.77 K:7.89 Fe:0.5 Zn:1.4 Cu:1.5 Mn:2.0
+
+Znso4*7h2o мс1
+B
+SO3:27.84 S:11.15 Zn:22.74
+
+Агрикола 13-15-18
+B
+N:13.0 P2O5:15.0 K2O:18.0 N_NO3:13.0 P:6.55 K:14.94 Fe:0.05 Zn:0.02 Cu:0.02 Mn:0.04 Mo:0.01 B:0.03
+
+Агрикола 13-20-20
+B
+N:13.0 P2O5:20.0 K2O:20.0 MgO:0.5 N_NO3:13.0 P:8.73 K:16.6 Mg:0.3 Fe:0.05 Zn:0.02 Cu:0.02 Mn:0.04 Mo:0.01 B:0.03
+
+Агрикола 23-11-23
+B
+N:23.0 P2O5:11.0 K2O:23.0 MgO:0.5 N_NO3:23.0 P:4.8 K:19.09 Mg:0.3 Fe:0.05 Zn:0.02 Cu:0.02 Mn:0.04 Mo:0.01 B:0.03
+
+Агролло fertic
+A
+N:31.6 P2O5:13.75 K2O:43.25 CaO:22.81 MgO:6.63 N_NH4:3.0 N_NO3:28.6 P:6.0 K:35.9 Ca:16.3 Mg:4.0 Fe:0.3 Zn:0.06 Cu:0.01 Mn:0.11 Mo:0.01 B:0.04
+
+Агромикс т®
+B
+Fe:7.0 Zn:0.6 Cu:0.27 Mn:3.3 Mo:0.2 B:0.65
+
+Азотная кислота
+B
+N:43.0 N_NO3:43.0
+
+Азотная кислота 95%
+A
+N:21.09 N_NO3:21.09
+
+Азотная кислота 57%
+A
+N:12.65 N_NO3:12.65
+
+Азотная кислота 65% (хч)
+A
+N:14.45 N_NO3:14.45
+
+Азотная кислота 65% хч
+B
+N:14.43 N_NO3:14.43
+
+Азотная кислота 75%
+A
+N:16.67 N_NO3:16.67
+
+Аквалис 181818
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:3.0 SO3:7.49 N_NH4:3.6 N_NO3:5.4 N_NH2:9.0 P:7.86 K:14.94 Mg:1.81 S:3.0 Fe:0.07 Zn:0.01 Cu:0.01 Mn:0.05 B:0.02
+
+Аквамикс л
+B
+MgO:1.49 Mg:0.9 Fe:4.1 Zn:0.63 Cu:0.63 Mn:3.0 Mo:0.17 B:0.6 Co:0.06
+
+Аквамикс м
+B
+Fe:6.0 Zn:1.3 Cu:0.25 Mn:2.4 Mo:0.25 B:0.85
+
+Аквамикс микроэлементный комплекс жидкий буйские
+A
+CaO:0.55 Ca:0.39 Fe:0.58 Zn:0.08 Cu:0.08 Mn:0.39 Mo:0.02 B:0.08
+
+Аквамикс тв
+B
+Zn:2.25 Cu:2.25 Mo:7.8 B:7.65 Co:2.1
+
+Аквамикс хелат (ст ) буйские
+A
+CaO:3.6 Ca:2.57 Fe:3.84 Zn:0.53 Cu:0.53 Mn:2.57 Mo:0.13 B:0.52
+
+Аквамикс хелат (уп. 5г)
+B
+Fe:3.84 Zn:0.53 Cu:0.53 Mn:2.57 Mo:0.13 B:0.52
+
+Аквамикс хелат микро
+A
+CaO:5.46 Ca:3.9 Fe:5.8 Zn:0.8 Cu:0.8 Mn:3.9 Mo:0.19 B:0.79
+
+Акварин (19:10:19)для вишни. сливы и других косточковых культур
+B
+N:19.0 P2O5:10.0 K2O:19.0 MgO:1.0 SO3:2.5 N_NH4:7.5 N_NO3:11.5 P:4.36 K:15.77 Mg:0.6 S:1.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 1 (7:11:30 4 3)
+B
+N:7.0 P2O5:11.0 K2O:30.0 MgO:4.0 SO3:7.49 N_NO3:7.0 P:4.8 K:24.9 Mg:2.41 S:3.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 10 (20:5:10, земляничный)
+B
+N:20.0 P2O5:5.0 K2O:10.0 MgO:1.49 SO3:20.97 N_NO3:20.0 P:2.18 K:8.3 Mg:0.9 S:8.4 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 11 (18:18:18)
+B
+N:18.0 P2O5:18.0 K2O:18.0 N_NH4:8.0 N_NO3:10.0 P:7.86 K:14.94 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 12 (12:12:35 1 0.7)
+B
+N:12.0 P2O5:12.0 K2O:35.0 MgO:1.0 SO3:1.75 N_NH4:2.0 N_NO3:10.0 P:5.24 K:29.06 Mg:0.6 S:0.7 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 13 (13:41:13)
+B
+N:13.0 P2O5:41.0 K2O:13.0 N_NH4:8.6 N_NO3:4.4 P:17.89 K:10.79 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 14 (17:6:18 1.5 7)
+B
+N:17.0 P2O5:6.0 K2O:18.0 MgO:1.5 SO3:17.48 N_NH4:9.0 N_NO3:8.0 P:2.62 K:14.94 Mg:0.9 S:7.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 15 (3:11:38 3 9)
+B
+N:3.0 P2O5:11.0 K2O:38.0 MgO:3.0 SO3:22.47 N_NO3:3.0 P:4.8 K:31.55 Mg:1.81 S:9.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 16 (6:12:36 2 4)
+B
+N:6.0 P2O5:12.0 K2O:36.0 MgO:2.0 SO3:9.99 N_NO3:6.0 P:5.24 K:29.89 Mg:1.21 S:4.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 2 14:10:28 +мэ
+B
+N:14.0 P2O5:10.0 K2O:28.0 MgO:2.5 SO3:3.75 N_NH4:7.7 N_NO3:6.3 P:4.36 K:23.24 Mg:1.51 S:1.5 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 3 (3:11:35, хвойный)
+B
+N:3.0 P2O5:11.0 K2O:35.01 MgO:4.0 SO3:22.47 N_NO3:3.0 P:4.8 K:29.06 Mg:2.41 S:9.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 4 (6:12:33, 3:7)
+B
+N:6.0 P2O5:12.0 K2O:33.0 MgO:3.0 SO3:17.48 N_NH4:1.5 N_NO3:4.5 P:5.24 K:27.39 Mg:1.81 S:7.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 5
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:2.0 SO3:3.75 N_NH4:2.1 N_NO3:3.9 N_NH2:12.0 P:7.86 K:14.94 Mg:1.21 S:1.5 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 6 (15:5:30 1.7 1.3)
+B
+N:15.0 P2O5:5.0 K2O:30.0 MgO:1.7 SO3:3.25 N_NH4:3.7 N_NO3:11.3 P:2.18 K:24.9 Mg:1.03 S:1.3 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 7 (13:5:25 2 8)
+B
+N:13.0 P2O5:5.0 K2O:25.0 MgO:2.0 SO3:19.98 N_NH4:6.0 N_NO3:7.0 P:2.18 K:20.75 Mg:1.21 S:8.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 8 (19:6:20 1.5 1.4)
+B
+N:19.0 P2O5:6.0 K2O:20.0 MgO:1.5 SO3:3.5 N_NH4:7.1 N_NO3:11.9 P:2.62 K:16.6 Mg:0.9 S:1.4 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин 9 (20:8:8 1.5 9)
+B
+N:20.0 P2O5:8.0 K2O:8.0 MgO:1.5 SO3:22.47 N_NH4:13.2 N_NO3:6.8 P:3.49 K:6.64 Mg:0.9 S:9.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин для вишни, сливы и других косточковых культур
+B
+N:19.0 P2O5:10.0 K2O:19.0 MgO:1.0 SO3:2.5 N_NH4:7.5 N_NO3:11.5 P:4.36 K:15.77 Mg:0.6 S:1.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин для осенних подкормок
+B
+N:3.0 P2O5:11.0 K2O:38.0 MgO:3.0 SO3:22.47 N_NO3:3.0 P:4.8 K:31.55 Mg:1.81 S:9.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин для питуньи
+B
+N:15.0 P2O5:5.0 K2O:21.5 SO3:14.98 N_NH4:6.1 N_NO3:8.9 P:2.18 K:17.85 S:6.0
+
+Акварин для тюльпанов
+B
+N:13.0 P2O5:5.0 K2O:25.0 MgO:2.0 SO3:19.98 N_NH4:6.0 N_NO3:7.0 P:2.18 K:20.75 Mg:1.21 S:8.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин для цветов
+B
+N:13.0 P2O5:5.0 K2O:25.0 MgO:3.32 SO3:19.98 N_NH4:6.0 N_NO3:7.0 P:2.18 K:20.75 Mg:2.0 S:8.0 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин плодово-ягодный
+B
+N:12.0 P2O5:12.0 K2O:35.0 MgO:1.0 SO3:1.75 N_NH4:2.0 N_NO3:10.0 P:5.24 K:29.06 Mg:0.6 S:0.7 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин" для голубики n (%): 13 p2o5 (%): 10 k2o (%): 22 mgo (%): 1.75 s (%): 6.5 микроэлементы: fe (дтпа) – 0,054; zn (эдта) – 0,014; cu (эдта) – 0,01; mn (эдта) – 0,042; mo – 0,004; b – 0,02
+B
+N:13.0 P2O5:10.0 K2O:22.0 MgO:1.75 SO3:16.23 N_NH4:6.6 N_NO3:6.4 P:4.36 K:18.26 Mg:1.06 S:6.5 Fe:0.05 Zn:0.01 Cu:0.01 Mn:0.04 B:0.02
+
+Акварин" для жимолости
+A
+N:16.5 P2O5:8.0 K2O:24.0 CaO:2.8 MgO:2.4 N_NH4:3.55 N_NO3:9.1 N_NH2:3.85 P:3.49 K:19.92 Ca:2.0 Mg:1.45
+
+Активейв (actiwave) valagro
+A
+N:3.0 K2O:7.0 N_NO3:1.0 N_NH2:2.0 K:5.81 Fe:0.5 Zn:0.08
+
+Алмазная броня
+B
+P2O5:20.0 K2O:17.0 P:8.73 K:14.11
+
+Аминосил
+B
+N:2.0 P2O5:3.44 K2O:3.01 MgO:0.35 N_NO3:2.0 P:1.5 K:2.5 Mg:0.21 Fe:0.02
+
+Аминосил "витамины для фиалок в форме концентрата"
+A
+N:1.8 P2O5:4.12 K2O:2.17 CaO:0.77 MgO:0.35 N_NO3:1.8 P:1.8 K:1.8 Ca:0.55 Mg:0.21 Fe:0.02
+
+Аминосил "витамины для хвойных"
+A
+N:2.3 P2O5:4.58 K2O:1.81 CaO:0.77 MgO:0.35 N_NO3:2.3 P:2.0 K:1.5 Ca:0.55 Mg:0.21 Fe:0.02
+
+Амко рост npk 10-50-10
+B
+N:10.0 P2O5:50.0 K2O:10.0 MgO:0.6 N_NH4:9.0 N_NH2:1.0 P:21.82 K:8.3 Mg:0.36 Fe:0.05 Zn:0.02 Mn:0.05 B:0.01
+
+Амко урожай 12-12-36+te
+B
+N:12.0 P2O5:12.0 K2O:36.0 MgO:0.6 N_NH4:2.0 N_NO3:8.0 N_NH2:2.0 P:5.24 K:29.89 Mg:0.36 Fe:0.05 Zn:0.02 Mn:0.05 B:0.01
+
+Аммиачная селитра sulfan фрукты-овощи yarabela
+B
+N:24.0 SO3:15.0 N_NH4:12.0 N_NO3:12.0 S:6.0
+
+Аммиачная селитра антей
+A
+N:34.0 N_NH4:17.0 N_NO3:17.0
+
+Аммиачная селитра фаско (на основе)
+B
+N:33.0 MgO:0.4 N_NH4:16.5 N_NO3:16.5 Mg:0.24 Fe:0.1 Zn:0.02 Cu:0.01 Mn:0.06 B:0.02
+
+Аммиачная селитра фертика с
+A
+N:33.0 CaO:7.8 MgO:2.6 N_NH4:16.5 N_NO3:16.5 Ca:5.57 Mg:1.57 Zn:0.06 Mn:0.03 B:0.02
+
+Аммоний азотнокислый (nh4no3), ч
+A
+N:35.0 N_NH4:17.5 N_NO3:17.5
+
+Аммоний молибденовокислый
+B
+
+Аммоний молибденовокислый четырёхводный (nh4)6mo7o24*4h2o русхим озон
+B
+N:6.79 N_NH4:6.79 Mo:54.34
+
+Аммоний сернокислый - сульфат аммония ((nh4)2so4)
+B
+N:21.0 SO3:59.93 N_NH4:21.0 S:24.0
+
+Аммофос nh4h2po4
+B
+N:12.0 P2O5:52.0 N_NH4:12.0 P:22.69
+
+Аммофос фертика
+B
+N:12.0 P2O5:52.0 N_NO3:12.0 P:22.69
+
+Бионекс-кеми
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:1.82 SO3:9.99 N_NO3:18.0 P:7.86 K:14.94 Mg:1.1 S:4.0 Fe:0.06 Cu:0.01 Mn:0.05 B:0.03
+
+Биостим старт (щелково агрохим)
+B
+N:4.5 P2O5:5.0 K2O:2.5 MgO:1.0 N_NO3:4.5 P:2.18 K:2.08 Mg:0.6 Zn:0.2 Cu:0.1 Mn:0.2 Mo:0.01 B:0.1
+
+Бияк башинком микро комплекс
+B
+N:1.6 MgO:0.08 N_NO3:1.6 Mg:0.05 Fe:0.4 Zn:0.24 Cu:0.08 Mn:0.36 Mo:0.08 B:0.03 Co:0.02
+
+Богатый–микро комплексный 9 микроэлементов
+B
+N:1.6 MgO:0.08 N_NH4:1.6 Mg:0.05 Fe:0.4 Zn:0.09 Cu:0.12 Mn:0.36 Mo:0.08 B:0.03
+
+Борная кислота 3% (глазные капли)
+B
+B:0.53
+
+Борная кислота стк
+B
+B:17.48
+
+Вода
+A
+N:0.29 P2O5:0.2 K2O:0.94 CaO:31.0 MgO:6.4 N_NH4:0.09 N_NO3:0.2 P:0.09 K:0.78 Ca:22.16 Cl:7.2 Mg:3.86 Fe:0.13 Zn:0.04 Mn:0.01 B:0.01 Si:2.65
+
+Вода (не удаляйте)
+A
+CaO:11.75 MgO:2.49 Ca:8.4 Mg:1.5
+
+Вода dmd
+A
+CaO:0.01 MgO:0.01 Ca:0.01
+
+Вода из скважины
+B
+CaO:0.01 Ca:0.01
+
+Вода харченко р.
+A
+K2O:4.7 CaO:55.97 MgO:20.07 K:3.9 Ca:40.0 Mg:12.1
+
+Гидроксид калия, 25%
+B
+K2O:20.96 K:17.4
+
+Грин хаус
+B
+N:24.0 P2O5:6.0 K2O:12.0 MgO:1.99 N_NH4:11.0 N_NO3:13.0 P:2.62 K:9.96 Mg:1.2 Fe:0.1 Zn:0.01 Cu:0.04 Mn:0.05 Mo:0.01 B:0.02
+
+Грин-го 6-48-18
+B
+N:6.0 P2O5:48.0 K2O:18.0 SO3:5.0 N_NH4:5.0 N_NO3:1.0 P:20.95 K:14.94 S:2.0 Fe:0.04 Zn:0.02 Cu:0.02 Mn:0.02 Mo:0.01 B:0.02
+
+Грин-го 8-16-24+10 cao
+A
+N:8.0 P2O5:16.0 K2O:24.0 CaO:10.0 N_NO3:8.0 P:6.98 K:19.92 Ca:7.15 Fe:0.04 Zn:0.02 Cu:0.02 Mn:0.02 Mo:0.01 B:0.02
+
+Гринго 8-16-40 (коричневый)
+B
+N:7.8 P2O5:15.49 K2O:40.4 SO3:3.6 N_NO3:7.8 P:6.76 K:33.54 S:1.44 Fe:0.15 Zn:0.05 Cu:0.08 Mn:0.1 Mo:0.01 B:0.05
+
+Диаммофоска (nh4)2hpo4
+B
+N:10.0 P2O5:26.0 K2O:26.0 N_NH4:10.0 P:11.35 K:21.58
+
+Добавка микроэлементная буйские удобрения
+A
+CaO:20.99 MgO:9.95 SO3:29.96 Ca:15.0 Mg:6.0 S:12.0 Fe:0.5 Mn:0.01 B:0.2
+
+Добрая сила для рассады овощных
+B
+N:4.0 P2O5:4.0 K2O:3.0 N_NO3:4.0 P:1.75 K:2.49 Fe:0.02 Zn:0.01 Mn:0.01 B:0.01
+
+Добриво кристалічне для декоративно-листяних рослин чистий лист
+B
+N:19.0 P2O5:29.79 K2O:13.25 MgO:5.31 SO3:89.89 N_NH4:19.0 P:13.0 K:11.0 Mg:3.2 S:36.0 Fe:1.6 Zn:0.32 Cu:0.23 Mn:0.34 Mo:0.03 B:0.31 Co:0.02
+
+Добриво мінеральне для троянд та квітучих рослин yara folicare
+B
+N:22.0 P2O5:5.0 K2O:22.0 MgO:1.5 SO3:8.99 N_NH4:22.0 P:2.18 K:18.26 Mg:0.9 S:3.6 Fe:0.2 Zn:0.02 Cu:0.1 Mn:0.1 Mo:0.01 B:0.02
+
+Евро компот мульти greenroots
+A
+N:9.3 P2O5:4.9 K2O:16.48 CaO:11.42 MgO:2.55 SO3:11.96 N_NO3:9.3 P:2.14 K:13.68 Ca:8.16 Mg:1.54 S:4.79 Fe:0.12 Cu:0.01 Mn:0.02 B:0.02
+
+Железный купорос
+B
+Fe:20.0
+
+Жидкое калийное стекло гост 18958-73 (силикат калия, k2sio3)
+B
+K2O:11.35 K:9.42 Si:11.0
+
+Жидкое стекло silicate
+B
+K2O:33.52 K:27.83 Si:30.91
+
+Жку "волшебная лейка" для арбузов и дынь [г/л, не %]
+B
+N:31.82 P2O5:10.3 K2O:46.8 MgO:2.99 N_NH4:10.1 N_NO3:21.72 P:4.5 K:38.85 Mg:1.8 Fe:0.1 Zn:0.03 Cu:0.02 Mn:0.08 Mo:0.01 B:0.04
+
+Жку "волшебная лейка" для клубники и земляники [г/л, не %]
+B
+N:32.76 P2O5:9.36 K2O:37.44 MgO:3.0 N_NO3:32.76 P:4.08 K:31.08 Mg:1.81 Fe:0.1 Zn:0.03 Cu:0.02 Mn:0.08 Mo:0.01 B:0.04
+
+Жку "волшебная лейка" для огурцов, тыкв, кабачков, патиссонов [г/л, не %]
+B
+N:29.02 P2O5:16.84 K2O:51.48 MgO:2.34 N_NO3:29.02 P:7.35 K:42.74 Mg:1.41 Fe:0.1 Zn:0.03 Cu:0.02 Mn:0.08 Mo:0.01 B:0.04
+
+Жку "волшебная лейка" для рассады овощей и цветов [г/л, не %]
+B
+N:40.95 P2O5:40.95 K2O:40.95 MgO:4.55 N_NO3:40.95 P:17.87 K:33.99 Mg:2.74 Fe:0.12 Zn:0.03 Cu:0.02 Mn:0.1 Mo:0.01 B:0.05
+
+Жку "волшебная лейка" для салатов и пряных трав [г/л, не %]
+B
+N:30.3 P2O5:21.2 K2O:43.7 MgO:3.7 N_NH4:5.5 N_NO3:13.8 N_NH2:11.0 P:9.25 K:36.28 Mg:2.23 Fe:0.11 Zn:0.03 Cu:0.02 Mn:0.08 Mo:0.01 B:0.04
+
+Жку "волшебная лейка" для томатов, перцев, баклажанов [г/л, не %]
+B
+N:25.27 P2O5:15.91 K2O:60.84 MgO:2.53 N_NO3:25.27 P:6.94 K:50.51 Mg:1.53 Fe:0.1 Zn:0.03 Cu:0.02 Mn:0.08 Mo:0.01 B:0.04
+
+Жку "волшебная лейка" для ягодных и плодовых культур [г/л, не %]
+B
+N:31.82 P2O5:10.3 K2O:46.8 MgO:2.99 N_NO3:31.82 P:4.5 K:38.85 Mg:1.8 Fe:0.1 Zn:0.03 Cu:0.02 Mn:0.08 Mo:0.01 B:0.04
+
+Жку "волшебная лейка" универсальная [г/л, не %]
+B
+N:29.5 P2O5:29.5 K2O:45.63 MgO:3.04 N_NO3:29.5 P:12.87 K:37.88 Mg:1.83 Fe:0.1 Zn:0.03 Cu:0.02 Mn:0.08 Mo:0.01 B:0.04
+
+Зеленая игла
+B
+MgO:24.0 SO3:44.95 Mg:14.47 S:18.0
+
+Калиевая селитра
+A
+N:13.5 K2O:45.8 CaO:0.02 N_NO3:13.5 K:38.02 Ca:0.01 Fe:0.02 Mn:0.01
+
+Калиевая селитра (уралхим/фертика)
+A
+N:13.7 K2O:46.2 N_NO3:13.7 K:38.35
+
+Калий азотнокислый (kno3), буйский (селитра калиевая)
+A
+N:13.6 K2O:45.73 N_NO3:13.6 K:37.96
+
+Калий азотнокислый (kno3), ч (селитра калиевая)
+A
+N:13.85 K2O:46.58 N_NO3:13.85 K:38.67
+
+Калий гидроксид, ч
+B
+K2O:83.95 K:69.69
+
+Калий сернокислый фаско
+B
+K2O:21.0 K:17.43 Fe:0.1 Zn:0.02 Cu:0.01 Mn:0.06 B:0.02
+
+Калий сернокислый чистый русхим
+B
+K2O:54.05 SO3:45.94 K:44.87 S:18.4
+
+Калий фосфорнокислый монофосфат буйский p2o5:50 k2o:33
+B
+P2O5:50.0 K2O:33.18 P:21.82 K:27.55
+
+Калий фосфорнокислый 1-замещенный (монофосфат, kh2po4), ч
+B
+P2O5:52.15 K2O:34.61 P:22.76 K:28.73
+
+Калиймагнезия
+B
+K2O:32.0 MgO:12.0 SO3:26.22 K:26.56 Mg:7.24 S:10.5
+
+Калимагнезия водорастворимое
+B
+K2O:24.0 MgO:9.0 SO3:37.46 K:19.92 Mg:5.43 S:14.99
+
+Калмаг
+A
+N:2.5 CaO:4.0 MgO:1.0 N_NH4:0.14 N_NO3:2.36 Ca:2.86 Mg:0.6
+
+Кальциевая селитра (буйские)
+A
+N:14.9 CaO:27.0 N_NH4:0.7 N_NO3:14.2 Ca:19.3
+
+Кальциевая селитра тетра мастер
+A
+N:17.0 K2O:0.3 CaO:32.0 N_NO3:17.0 K:0.25 Ca:22.87
+
+Кальциевая селитра фертика
+A
+N:15.5 CaO:26.58 N_NH4:1.0 N_NO3:14.5 Ca:19.0
+
+Кальций азотнокислый (5[ca(no3)2*2h2o]nh4no3), yara calcinit (селитра кальциевая)
+A
+N:15.5 CaO:26.58 N_NH4:1.1 N_NO3:14.4 Ca:19.0
+
+Кальций азотнокислый б/в марка "премиум"
+A
+N:17.38 CaO:34.14 N_NH4:0.3 N_NO3:17.08 Ca:24.4
+
+Кальций азотнокислый безводный (ca(no3)2) ч (селитра кальциевая)
+A
+N:16.89 CaO:33.83 N_NO3:16.89 Ca:24.18
+
+Кальций азотнокислый буйский марка а (селитра кальциевая)
+A
+N:14.9 CaO:27.0 N_NH4:0.7 N_NO3:14.2 Ca:19.3
+
+Кальций азотнокислый нитрат кальция (solar уралхим) (селитра кальциевая)
+A
+N:17.0 CaO:33.0 N_NH4:0.3 N_NO3:16.7 Ca:23.59
+
+Кальций азотнокислый са(nо3)2*4h2o
+A
+N:14.9 CaO:27.0 N_NO3:14.9 Ca:19.3
+
+Кальций азотнокислый четырехводный (ca(no3)2*4h2o)), ч (селитра кальциевая)
+A
+N:11.86 CaO:23.74 N_NO3:11.86 Ca:16.97
+
+Кальций аммиачная селитра буйские
+A
+N:33.4 CaO:1.4 N_NH4:16.7 N_NO3:16.7 Ca:1.0
+
+Кальций сернокислый 2 водный (русхим)
+A
+CaO:33.58 SO3:47.44 Ca:24.0 S:19.0
+
+Кальций хлористый 6 водный пищ.пром 98%
+A
+CaO:25.07 Ca:17.92 Cl:31.71
+
+Кальций хлористый 6-водный
+A
+CaO:25.6 Ca:18.29 Cl:32.37
+
+Кальций хлористый безводный (cacl2), ч
+A
+CaO:50.53 Ca:36.11 Cl:63.89
+
+Кальций хлористый двухводный (cacl2*2h2o), ч
+A
+CaO:38.14 Ca:27.26 Cl:48.23
+
+Кальция нитрат 50% lerochem
+A
+N:9.0 CaO:18.3 N_NO3:9.0 Ca:13.08
+
+Кальция хлорид аптечный 10%
+A
+CaO:2.56 Ca:1.83 Cl:3.24
+
+Карбамид мочевина
+B
+N:46.2 N_NH2:46.2
+
+Кас 32
+A
+N:32.0 N_NH4:8.0 N_NO3:8.0 N_NH2:16.0
+
+Кислота азотная 20%
+A
+N:4.44 N_NO3:4.44
+
+Кислота азотная 42% бхз
+A
+N:9.32 N_NO3:9.32
+
+Кислота азотная, конц (68%, 1.4г/мл) [г]
+A
+N:15.11 N_NO3:15.11
+
+Кислота борная, ч (h3bo3)
+B
+B:17.48
+
+Кислота ортофосфорная 43%
+B
+P2O5:31.14 P:13.59
+
+Кислота ортофосфорная ч 85% (1.69 г/см3. пищевая. медицинская)
+B
+P2O5:61.55 P:26.86
+
+Кислота ортофосфорная, ч (100%, 1.88г/мл) [г]
+B
+P2O5:72.42 P:31.61
+
+Кислота серная, электролит (37%, 1.27..1.28г/мл) [г]
+B
+SO3:38.2 S:15.3
+
+Кислота серная, электролит (44%, 1.34 г/мл)
+B
+SO3:35.93 S:14.39
+
+Кобальт азотнокислый (ii) 6-водный (ч) co(no3)2*6h2o
+B
+Co:20.25
+
+Кобальт сернокислый (ii) 7-водный
+B
+SO3:28.48 S:11.41 Co:20.96
+
+Кобальт хлористый
+B
+Cl:54.61 Co:45.39
+
+Кремний agree's
+B
+K2O:25.0 K:20.75 Si:16.36
+
+Кристалон - для хвойных растений фертика
+B
+N:3.0 P2O5:1.4 K2O:6.5 MgO:0.3 SO3:1.75 N_NO3:3.0 P:0.61 K:5.4 Mg:0.18 S:0.7 Fe:0.01 Mn:0.01
+
+Кристалон для огурца
+B
+N:14.0 P2O5:11.0 K2O:31.0 MgO:21.0 SO3:12.48 N_NO3:14.0 P:4.8 K:25.73 Mg:12.66 S:5.0 Fe:0.15 Cu:0.01 Mn:0.01 B:0.02
+
+Кристалон клубничны
+B
+N:1.8 P2O5:1.8 K2O:6.4 MgO:0.3 SO3:0.5 N_NO3:1.8 P:0.79 K:5.31 Mg:0.18 S:0.2
+
+Кристалон специальный yara
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:3.0 SO3:5.0 N_NH4:3.3 N_NO3:4.9 N_NH2:9.8 P:7.86 K:14.94 Mg:1.81 S:2.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Лук-чеснок
+B
+N:15.5 P2O5:15.5 K2O:27.71 N_NO3:15.5 P:6.76 K:23.0
+
+Маг-бор
+B
+MgO:15.0 Mg:9.04 B:1.3
+
+Магбор агровит
+B
+MgO:15.0 Mg:9.04 B:1.3
+
+Магниевая селитра
+A
+N:11.1 CaO:1.0 MgO:15.5 N_NO3:11.1 Ca:0.71 Mg:9.35
+
+Магний азотнокислый 6-водный
+A
+N:10.92 MgO:15.7 N_NO3:10.92 Mg:9.47
+
+Магний азотнокислый 6-водный чда mg(no3)2*6h2o
+A
+N:10.85 MgO:15.61 N_NO3:10.85 Mg:9.41
+
+Магний азотнокислый шестиводный (mg(no3)2*6h2o), ч, yara kristamag
+A
+N:10.94 MgO:15.74 N_NO3:10.94 Mg:9.49
+
+Магний аммиачная селитра
+B
+N:33.2 MgO:0.83 N_NH4:16.3 N_NO3:16.9 Mg:0.5
+
+Магний нитрат avalon
+A
+N:10.5 MgO:15.6 N_NO3:10.5 Mg:9.41
+
+Магний сернокислый 7-водный нов-агро
+B
+MgO:16.1 SO3:31.96 Mg:9.71 S:12.8
+
+Магний сернокислый семиводный (mgso4*7h2o), буйский
+B
+MgO:16.9 SO3:33.71 Mg:10.19 S:13.5
+
+Магний сернокислый семиводный ч
+B
+MgO:16.35 SO3:32.49 Mg:9.86 S:13.01
+
+Магний хлористый шестиводный (mgcl2*6h2o), ч
+B
+MgO:19.62 Cl:34.53 Mg:11.83
+
+Марганец сернокислый mnso4*5h2o (ii) 5-водный (чда)
+B
+SO3:33.21 S:13.3 Mn:22.79
+
+Медь сернокислая 5-водная (медный купорос)
+B
+SO3:32.07 S:12.84 Cu:25.45
+
+Меристем микро микс
+B
+Fe:7.5 Zn:0.7 Cu:0.28 Mn:3.5 Mo:0.3 B:0.65
+
+Метаборат калия 2квo2*2.5н2o (бхз)
+B
+K2O:44.0 K:36.53 B:10.1
+
+Молибдат аммония ((nh4)2moo4), mo 52%, буйский
+B
+N:14.28 N_NH4:14.28 Mo:52.0
+
+Моноаммонийфосфат solar
+B
+N:12.0 P2O5:61.0 N_NH4:12.0 P:26.62
+
+Монокалий фосфат (буйские)
+B
+P2O5:50.0 K2O:33.0 P:21.82 K:27.39
+
+Монокалий-фосфат (нов-агро)
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23 Fe:0.09 Zn:0.04 Cu:0.15 Mn:0.16 B:0.03
+
+Монокалийфосфат (буйские бело-фиолетовый, биомастер, фертика)
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23
+
+Монокалийфосфат буйские желтый
+B
+P2O5:50.0 K2O:33.0 P:21.82 K:27.39
+
+Монокалийфосфат с микроэлементами "на ведро" (биомастер)
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23 Fe:0.2 Mn:0.5
+
+Монокремниевая кислота grow canna silution aktivator
+B
+Si:29.22
+
+Монофосфат haifa p2o5
+B
+P2O5:52.01 K2O:34.57 P:22.7 K:28.7
+
+Монофосфат калия (садовита "ооо арго")
+B
+P2O5:51.5 K2O:34.5 P:22.48 K:28.64
+
+Монофосфат калия уралхим solar
+B
+P2O5:52.0 K2O:34.0 P:22.69 K:28.23
+
+Натрий молибденовокислый 2h2o ч русхим
+B
+Mo:39.65
+
+Нашатырный спирт 10%
+B
+N:4.0 N_NH4:4.0
+
+Нитрат калий уралхим solar
+A
+N:13.7 K2O:46.2 N_NO3:13.7 K:38.35
+
+Нитрат калия
+A
+N:13.5 K2O:45.8 CaO:0.02 N_NO3:13.5 K:38.02 Ca:0.01 Mn:0.01
+
+Нитрат калия (haifa)
+A
+N:13.5 K2O:46.2 N_NO3:13.5 K:38.35
+
+Нитрат калия калиевая селитра (fertium aqua) 11:0:46
+B
+N:11.0 K2O:46.0 N_NO3:11.0 K:38.19
+
+Нитрат калия калий азотнокислый калиевая селитра knо3 бурские (селитра калиевая)
+A
+N:13.6 K2O:46.0 N_NO3:13.6 K:38.19
+
+Нитрат кальций солар рк
+A
+N:17.0 CaO:32.0 N_NH4:0.3 N_NO3:16.7 Ca:22.87
+
+Нитрат кальция буйские марка а
+A
+N:4.0 CaO:7.0 N_NH4:1.0 N_NO3:3.0 Ca:5.0
+
+Нитрат кальция буйские марка г
+A
+N:12.0 CaO:24.0 N_NO3:12.0 Ca:17.15
+
+Нитрат кальция концентрированный с бором уралхим solar
+A
+N:17.0 CaO:44.77 N_NH4:1.0 N_NO3:16.0 Ca:32.0 B:1.0
+
+Нутривант плюс бахчевый
+B
+N:6.0 P2O5:16.0 K2O:31.0 MgO:2.0 N_NO3:6.0 P:6.98 K:25.73 Mg:1.21 Fe:0.4 Zn:0.1 Cu:0.01 Mn:0.7 Mo:0.01 B:0.5
+
+Ому "универсал", марка 1 буйские удобрения
+B
+N:7.0 P2O5:7.0 K2O:8.0 MgO:1.5 SO3:9.16 N_NO3:7.0 P:3.05 K:6.64 Mg:0.9 S:3.67 Fe:0.02 Zn:0.01 Cu:0.01 Mn:0.05 B:0.02
+
+Ортофосфорная кислота 73%
+B
+P2O5:52.86 P:23.07
+
+Ортофосфорная кислота 75%
+B
+P2O5:53.21 P:23.22
+
+Осмокот
+B
+N:19.0 P2O5:9.0 K2O:10.0 MgO:2.0 N_NH4:8.2 N_NO3:6.2 N_NH2:4.6 P:3.93 K:8.3 Mg:1.21 Fe:0.06 Zn:0.01 Cu:0.03 Mn:0.05 Mo:0.02 B:0.01
+
+Пекацид
+B
+P2O5:60.0 K2O:20.0 P:26.19 K:16.6
+
+Поли-фид 6-15-38 + 3mgo + ме
+B
+N:6.0 P2O5:15.0 K2O:38.0 MgO:3.0 SO3:1.9 N_NO3:6.0 P:6.55 K:31.55 Mg:1.81 S:0.76 Fe:0.2 Zn:0.02 Cu:0.02 Mn:0.1 Mo:0.01 B:0.04
+
+Пш даун rastea
+B
+P2O5:25.0 P:10.91
+
+Радифарм
+B
+N:3.0 K2O:8.0 N_NH4:2.0 N_NO3:1.0 K:6.64 Zn:0.1
+
+Растворин марка *б*
+B
+N:18.0 P2O5:6.0 K2O:18.0 N_NO3:18.0 P:2.62 K:14.94 Zn:0.01 Cu:0.01 Mn:0.1 B:0.01
+
+Рексолин apn (yara)
+B
+Fe:6.0 Zn:1.3 Cu:0.25 Mn:2.4 Mo:0.25 B:0.85
+
+Ризотерра ароидгидро
+A
+N:6.25 P2O5:1.5 K2O:7.7 CaO:5.7 MgO:1.7 N_NO3:6.25 P:0.65 K:6.39 Ca:4.07 Mg:1.03 Fe:0.09 Zn:0.02 Cu:0.02 Mn:0.04 Mo:0.01 B:0.01
+
+Селитра аммиачная (nh4no3) гост 2-2013 уралхим
+A
+N:34.4 N_NH4:17.2 N_NO3:17.2
+
+Селитра аммиачная fertika classic n:33
+A
+N:33.0 CaO:1.33 MgO:0.49 SO3:1.07 N_NH4:33.0 Ca:0.95 Mg:0.3 S:0.43 Fe:0.06 Zn:0.04 Cu:0.06 Mn:0.11
+
+Селитра аммиачная с микрой классика дачника
+A
+N:33.0 N_NH4:16.5 N_NO3:16.5 Fe:0.09 Zn:0.04 Cu:0.15 Mn:0.16 B:0.03
+
+Селитра аммиачная фертика
+A
+N:33.0 CaO:1.13 MgO:0.49 SO3:1.07 N_NH4:16.5 N_NO3:16.5 Ca:0.81 Mg:0.3 S:0.43 Fe:0.06 Zn:0.04 Cu:0.06 Mn:0.11 B:0.05
+
+Селитра калиевая fertica classic фертика
+A
+N:13.7 K2O:37.6 N_NH4:0.2 N_NO3:13.5 K:31.21
+
+Селитра калиевая с микро буйские
+A
+N:13.5 K2O:45.8 CaO:0.02 N_NO3:13.5 K:38.02 Ca:0.01 Fe:0.02 Mn:0.01
+
+Селитра кальциева
+A
+N:14.0 CaO:27.0 N_NH4:14.0 Ca:19.3
+
+Селитра кальциевая orgamin
+A
+N:27.0 CaO:27.98 N_NO3:27.0 Ca:20.0
+
+Селитра кальциевая агромаг
+A
+N:15.5 CaO:26.58 N_NO3:15.5 Ca:19.0
+
+Селитра кальциевая фертика fertika
+A
+N:15.5 CaO:26.58 N_NH4:1.0 N_NO3:14.5 Ca:19.0
+
+Селитра магниевая (нитрат магния, магний азотнокислый 6-водный) буйские 2025
+A
+N:11.1 CaO:1.0 MgO:15.5 N_NO3:11.1 Ca:0.71 Mg:9.35
+
+Селитра магниевая нитрат магния буйские
+A
+N:11.1 CaO:1.0 MgO:15.5 N_NO3:11.1 Ca:0.71 Mg:9.35
+
+Сера коллоидная
+B
+SO3:199.76 S:80.0
+
+Серия "цветочный рай" для азалии, вереска и рододендрона (жку буйские удобрения)
+B
+N:25.2 P2O5:7.2 K2O:28.8 MgO:2.3 N_NH4:11.38 N_NO3:13.82 P:3.14 K:23.91 Mg:1.39 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для герани и пеларгонии (жку буйские удобрения)
+B
+N:21.0 P2O5:7.0 K2O:42.0 MgO:2.4 N_NH4:5.18 N_NO3:15.82 P:3.05 K:34.87 Mg:1.45 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для гортензии (жку буйские удобрения)
+B
+N:20.16 P2O5:7.2 K2O:39.6 MgO:2.66 N_NH4:6.98 N_NO3:13.18 P:3.14 K:32.87 Mg:1.6 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для декоративно-лиственных растений (жку буйские удобрения)
+B
+N:27.36 P2O5:8.64 K2O:28.8 MgO:2.16 N_NH4:10.22 N_NO3:17.14 P:3.77 K:23.91 Mg:1.3 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для декоративных хвойных растений (жку буйские удобрения)
+B
+N:8.64 P2O5:16.32 K2O:50.4 MgO:4.32 N_NH4:0.96 N_NO3:7.68 P:7.12 K:41.84 Mg:2.6 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для луковичных растений (жку буйские удобрения)
+B
+N:23.03 P2O5:7.9 K2O:32.4 MgO:2.52 N_NH4:9.43 N_NO3:13.6 P:3.45 K:26.9 Mg:1.52 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для орхидей (жку буйские удобрения)
+B
+N:18.72 P2O5:7.2 K2O:36.0 MgO:2.88 N_NH4:8.64 N_NO3:10.08 P:3.14 K:29.89 Mg:1.74 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для роз, бегоний, хризантем (жку буйские удобрения)
+B
+N:24.48 P2O5:7.92 K2O:36.0 MgO:2.3 N_NH4:7.78 N_NO3:16.7 P:3.46 K:29.89 Mg:1.39 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для цветущих растений (жку буйские удобрения)
+B
+N:21.6 P2O5:7.2 K2O:43.2 MgO:2.45 N_NH4:5.33 N_NO3:16.27 P:3.14 K:35.86 Mg:1.48 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" для цитрусовых (жку буйские удобрения)
+B
+N:22.32 P2O5:12.96 K2O:39.6 MgO:1.8 N_NH4:6.55 N_NO3:15.77 P:5.66 K:32.87 Mg:1.09 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия "цветочный рай" универсальный (жку буйские удобрения)
+B
+N:23.04 P2O5:23.04 K2O:34.08 MgO:2.4 N_NH4:2.98 N_NO3:8.54 N_NH2:11.52 P:10.06 K:28.29 Mg:1.45 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серия «цветочный рай» для пальм, фикусов, юкки и драцен (жку "цветочный рай" буйские удобрения)
+B
+N:27.54 P2O5:18.72 K2O:18.72 MgO:2.52 N_NH4:11.2 N_NO3:7.7 N_NH2:8.64 P:8.17 K:15.54 Mg:1.52 Fe:0.08 Zn:0.03 Cu:0.02 Mn:0.06 Mo:0.01 B:0.03
+
+Серия «цветочный рай» для примул и фиалок
+B
+N:19.44 P2O5:12.24 K2O:46.8 MgO:2.02 N_NH4:4.1 N_NO3:15.34 P:5.34 K:38.85 Mg:1.22 Fe:0.08 Zn:0.02 Cu:0.01 Mn:0.06 Mo:0.01 B:0.03
+
+Серная кислота (хч) 94%
+B
+SO3:76.74 S:30.73
+
+Сила жизни "флорист рост"
+B
+N:14.0 P2O5:5.0 K2O:6.0 MgO:2.49 N_NO3:14.0 P:2.18 K:4.98 Mg:1.5 Fe:2.0 Zn:1.2 Cu:0.2 Mn:1.0 Mo:0.05 B:0.6 Co:0.03
+
+Сила жизни хелаты micro mix
+B
+K2O:12.0 K:9.96 Fe:2.4 Zn:2.2 Cu:1.5 Mn:1.6 Mo:0.03 B:0.76 Co:0.01
+
+Силикат калия гидрат
+B
+K2O:41.62 K:34.55 Si:12.41
+
+Силикат калия хч k2sio3 китай
+B
+K2O:61.05 K:50.68 Si:18.2
+
+Силиплант si 100мл
+B
+K2O:1.2 MgO:0.02 K:1.0 Mg:0.01 Fe:0.03 Zn:0.01 Cu:0.01 Mn:0.01 B:0.01 Si:7.0
+
+Силиплант универсальный
+B
+K2O:2.05 MgO:0.2 K:1.7 Mg:0.12 Fe:0.5 Zn:0.8 Cu:0.18 Mn:0.35 Mo:0.07 B:0.1 Si:7.5 Co:0.02
+
+Силиплант универсальный k:1%, si:7%, fe:0.3, mg:0.1, mn:0.15, cu:0.07, co:0.015, zn:0.08, b:0.09
+B
+K2O:1.2 MgO:0.17 K:1.0 Mg:0.1 Fe:0.3 Zn:0.08 Cu:0.07 Mn:0.15 B:0.09 Si:7.0 Co:0.01
+
+Силитра кальциевая моя
+A
+N:14.9 CaO:37.78 N_NH4:14.9 Ca:27.0
+
+Старт 11:40:11+2мgо+мэ
+B
+N:11.0 P2O5:40.0 K2O:11.0 MgO:2.0 SO3:4.99 N_NH4:8.0 N_NO3:3.0 P:17.46 K:9.13 Mg:1.21 S:2.0 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Сульфат калия калий сернокислый буйские
+B
+K2O:50.0 SO3:42.45 K:41.51 S:17.0
+
+Сульфат калия (0-0-50-45) granupotasse
+B
+K2O:50.0 SO3:45.0 K:41.51 S:18.01
+
+Сульфат калия solupotasse
+B
+K2O:51.0 SO3:44.95 K:42.34 S:18.0
+
+Сульфат калия yara
+B
+K2O:52.0 SO3:45.0 K:43.17 S:18.01
+
+Сульфат калия водорастворимое буйские
+B
+K2O:52.5 SO3:43.7 K:43.58 S:17.49
+
+Сульфат калия водорастворимое комплексное буйские
+B
+K2O:52.5 SO3:43.7 K:43.58 S:17.49
+
+Сульфат калия очищенный калий сернокислый очищенный буйские
+B
+K2O:53.0 SO3:44.95 K:44.0 S:18.0
+
+Сульфат калия с микроэлементами фертика классик
+B
+K2O:50.0 CaO:0.03 MgO:0.1 SO3:41.95 K:41.51 Ca:0.02 Mg:0.06 S:16.8 Fe:0.01 Zn:0.01 Cu:0.01 Mn:0.02 B:0.01
+
+Сульфат калия солюпоташ
+B
+K2O:51.0 SO3:46.5 K:42.34 S:18.61
+
+Сульфат калия солюпоташ (solupotasse) 25 кг tessenderlo group k2o – 51,5% k – 42% so3 – 46,5% s – 18%
+B
+K2O:51.5 SO3:46.5 K:42.75 S:18.61
+
+Сульфат калия, калий сернокислый solutopasse, valagro
+B
+K2O:51.0 SO3:46.0 K:42.34 S:18.41
+
+Сульфат магния (буйские)
+B
+MgO:16.5 SO3:32.46 Mg:9.95 S:13.0
+
+Сульфат магния 20г. нов-агро
+B
+MgO:16.7 SO3:33.21 Mg:10.07 S:13.3
+
+Сульфат магния буйские
+B
+MgO:16.5 SO3:32.46 Mg:9.95 S:13.0
+
+Сульфат магния буйские марка в
+B
+MgO:16.9 SO3:33.71 Mg:10.19 S:13.5
+
+Сульфат магния нов-агро
+B
+MgO:16.1 SO3:31.96 Mg:9.71 S:12.8
+
+Сульфат марганца mnso4
+B
+SO3:52.44 S:21.0 Mn:36.0
+
+Сульфат цинка
+B
+Zn:35.0
+
+Супер фосфат (биомастер)
+B
+N:4.0 P2O5:15.0 N_NO3:4.0 P:6.55
+
+Супер фосфат двойной (нов-агро)
+B
+N:12.0 P2O5:49.0 N_NO3:12.0 P:21.38
+
+Суперфосфат фертика р2о5:29
+B
+N:6.0 P2O5:29.0 K2O:14.46 MgO:0.83 SO3:22.47 N_NO3:6.0 P:12.66 K:12.0 Mg:0.5 S:9.0
+
+Трилон б. мс1
+A
+N:7.53 N_NO3:7.53
+
+Удобрение geolia органоминеральное для газонов 2 кг
+B
+N:10.0 P2O5:7.0 K2O:7.0 MgO:1.5 N_NO3:10.0 P:3.05 K:5.81 Mg:0.9 Fe:0.01 Zn:0.01 Cu:0.01 Mn:0.07 B:0.02
+
+Удобрение для кактусов
+B
+N:4.0 P2O5:3.0 K2O:6.0 N_NO3:4.0 P:1.31 K:4.98
+
+Удобрение для растений, огорода и микрозелени
+A
+N:1.3 K2O:1.3 CaO:3.5 MgO:0.05 N_NH4:1.3 K:1.08 Ca:2.5 Mg:0.03 Fe:0.12 Zn:0.01 Cu:0.01 Mn:0.05 B:0.01
+
+Удобрение для растений, огорода и микрозелени б
+B
+P2O5:5.0 K2O:4.0 MgO:3.0 SO3:5.0 P:2.18 K:3.32 Mg:1.81 S:2.0
+
+Удобрение для растений, огорода и микрозелени с
+B
+P2O5:1.0 K2O:6.0 MgO:0.8 P:0.44 K:4.98 Mg:0.48
+
+Удобрение комплексное водорастворимое фертика
+B
+N:12.0 P2O5:6.0 K2O:36.0 MgO:2.5 N_NO3:12.0 P:2.62 K:29.89 Mg:1.51 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Удобрение лично для меня, не удалять dims хелат железа green belt
+B
+Fe:13.2
+
+Удобрение хелатэм эдта co 13% 1 кг буйский химический завод
+B
+Co:13.0
+
+Ультрамаг бор щелково агрохим
+A
+N:4.7 N_NH4:2.35 N_NO3:2.35 B:11.0
+
+Ультрамаг хелат железа 13% щелково агрохим
+B
+N:6.5 N_NH2:6.5 Fe:13.0
+
+Унифлор микро
+B
+MgO:2.49 SO3:4.99 Mg:1.5 S:2.0 Fe:0.32 Zn:0.04 Cu:0.03 Mn:0.16 Mo:0.01 B:0.12 Co:0.01
+
+Уралхим solar старт 13:40:13+мэ
+B
+N:13.0 P2O5:40.0 K2O:13.0 N_NH4:8.5 N_NO3:4.5 P:17.46 K:10.79 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.05 Mo:0.01 B:0.02
+
+Фаско для герани
+B
+N:6.0 P2O5:4.0 K2O:8.0 N_NH4:1.0 N_NO3:5.0 P:1.75 K:6.64 Cu:0.01 B:0.01
+
+Феррилин триум (ferrilene trium) хелат железа valagro
+B
+K2O:6.0 K:4.98 Fe:9.0 Mn:1.0
+
+Фертика азофоска fertika
+B
+N:16.0 P2O5:16.0 K2O:16.0 N_NO3:16.0 P:6.98 K:13.28
+
+Фертика люкс
+B
+N:16.0 P2O5:20.6 K2O:27.1 N_NH4:7.9 N_NO3:8.1 P:8.99 K:22.5 Fe:0.1 Zn:0.01 Cu:0.01 Mn:0.1 B:0.02
+
+Фертика универсал ягодное
+A
+N:12.0 P2O5:8.0 K2O:14.0 CaO:0.84 MgO:2.0 SO3:19.98 N_NO3:12.0 P:3.49 K:11.62 Ca:0.6 Mg:1.21 S:8.0 Fe:0.2 Zn:0.1 Cu:0.1 Mn:0.2 Mo:0.01 B:0.1
+
+Фертика универсальный 18*18*18
+B
+N:18.0 P2O5:18.0 K2O:18.0 MgO:3.0 SO3:5.0 N_NO3:18.0 P:7.86 K:14.94 Mg:1.81 S:2.0 Fe:0.07 Zn:0.03 Cu:0.01 Mn:0.04 B:0.03
+
+Фертика хвойное для вечнозеленых npk 10:7:14+mg+s (весна)
+B
+N:9.9 P2O5:7.0 K2O:14.0 MgO:6.9 SO3:40.8 N_NH4:8.3 N_NO3:1.6 P:3.05 K:11.62 Mg:4.16 S:16.33 Cu:0.03 Mn:0.1 B:0.05
+
+Фертика хвойное для вечнозеленых npk 8:11:23+mg+s
+B
+N:8.0 P2O5:11.4 K2O:22.9 MgO:4.2 SO3:29.3 N_NH4:5.4 N_NO3:2.6 P:4.98 K:19.01 Mg:2.53 S:11.72 Cu:0.05 Mn:0.25 B:0.05
+
+Фитактив актик
+B
+K2O:29.0 K:24.07
+
+Фитактив вита
+B
+N:6.3 P2O5:3.6 K2O:10.5 MgO:1.25 SO3:4.3 N_NO3:6.3 P:1.57 K:8.72 Mg:0.75 S:1.72 Fe:0.56 Zn:0.2 Mn:0.73 Mo:0.01 B:0.11
+
+Фитактив кальций
+A
+N:4.5 CaO:6.0 N_NO3:4.5 Ca:4.29 B:0.6
+
+Фитактив старт
+B
+N:10.0 P2O5:28.0 K2O:10.0 SO3:0.5 N_NH2:10.0 P:12.22 K:8.3 S:0.2 Fe:0.15 Zn:0.1 Mn:0.1
+
+Флоровит голубика
+B
+N:9.5 P2O5:5.1 K2O:12.2 MgO:2.0 SO3:39.97 N_NH4:9.5 P:2.23 K:10.13 Mg:1.21 S:15.99 Fe:0.2 Zn:0.1 Cu:0.01 Mn:0.75 B:0.06
+
+Фосфат мочевины
+B
+N:17.0 P2O5:44.0 N_NH2:17.0 P:19.2
+
+Фосфат мочевины фитактив
+B
+N:17.5 P2O5:44.0 N_NH2:17.5 P:19.2
+
+Фульвогумат "иван овсинский" (правильный)
+A
+N:0.6 P2O5:0.08 K2O:7.54 CaO:67.01 MgO:1.53 SO3:8.53 N_NH4:0.4 N_NO3:0.2 P:0.04 K:6.26 Ca:47.89 Mg:0.92 S:3.42 Fe:1.97 Zn:0.04 Cu:0.04 Mn:0.05 Mo:0.01 B:0.09 Co:0.01
+
+Фульвогумат иван овсинский
+A
+N:0.6 P2O5:0.82 K2O:0.76 CaO:67.02 MgO:1.53 SO3:8.53 N_NH4:0.4 N_NO3:0.2 P:0.36 K:0.63 Ca:47.9 Mg:0.92 S:3.41 Fe:1.97 Zn:0.05 Cu:0.04 Mn:0.05 Mo:0.01 B:0.1 Co:0.01
+
+Хелат железа (fe) green belt
+B
+Fe:13.2
+
+Хелат железа /стк/ 11,7%
+B
+Fe:11.7
+
+Хелат железа dtpa (fedtpa), fe 11%
+B
+Fe:11.0
+
+Хелат железа fe eddha (эддга) 6 %
+B
+Fe:6.0
+
+Хелат железа fe edta (эдта) 13%
+B
+Fe:13.0
+
+Хелат кальция эдта (caэдта), ca 10%, буйский
+A
+CaO:13.99 Ca:10.0
+
+Хелат магния (mgэдта), mg 6%, буйский - хелатэм
+B
+MgO:9.95 Mg:6.0
+
+Хелат марганца (ультрамаг, щелково агрохим)
+B
+N:6.5 N_NH4:3.25 N_NO3:3.25 Mn:13.0
+
+Хелат марганца эдта (mnedta), mn 13%, буйский - хелатэм
+B
+Mn:13.0
+
+Хелат меди (ультрамаг, щелково агрохим)
+B
+Cu:15.0
+
+Хелат меди (этда cu 15%)
+B
+Cu:15.0
+
+Хелат меди /стк/ 13%
+B
+Cu:13.0
+
+Хелат меди эдта (cuэдта), cu 15%, буйский - хелатэм
+B
+Cu:15.0
+
+Хелат цинка (ультрамаг, щелково агрохим)
+B
+N:6.5 N_NH4:3.25 N_NO3:3.25 Zn:15.0
+
+Хелат цинка эдта (znedta), zn 15%
+B
+Zn:15.0
+
+Хелатин бор
+A
+N:20.0 N_NO3:20.0 B:14.0
+
+Хелатин газон
+B
+N:3.0 P2O5:10.31 N_NO3:3.0 P:4.5 Fe:1.5 Zn:0.5 Cu:0.6 Mn:0.5 B:0.3
+
+Хелатин железо
+B
+K2O:13.25 K:11.0 Fe:3.0
+
+Хелатин томат
+B
+N:4.0 P2O5:13.75 N_NO3:4.0 P:6.0 Fe:0.7 Zn:0.9 Cu:0.3 Mn:0.8 B:0.3
+
+Цинк сернокислый 7-водный
+B
+SO3:27.84 S:11.15 Zn:22.74
+
+Цитовит
+B
+N:3.0 P2O5:1.15 K2O:3.01 MgO:1.66 SO3:9.99 N_NO3:3.0 P:0.5 K:2.5 Mg:1.0 S:4.0 Fe:3.5 Zn:0.6 Cu:0.6 Mn:3.0 Mo:0.4 B:0.8 Co:0.2
+
+Чистый лист для рассады
+B
+N:7.0 P2O5:30.0 K2O:17.0 MgO:0.32 SO3:14.51 N_NH4:7.0 P:13.09 K:14.11 Mg:0.19 S:5.81 Fe:0.16 Zn:0.03 Cu:0.02 Mn:0.03 B:0.03 Co:0.02
+
+אשלגן כלורי
+B
+K2O:61.0 K:50.64
+
+דשן כל 20-20-20+מיקרו לצמחים ועצים
+B
+N:20.2 P2O5:20.0 K2O:20.0 N_NH4:4.0 N_NO3:6.0 N_NH2:10.2 P:8.73 K:16.6 Fe:0.1 Zn:0.01 Cu:0.02 Mo:0.01
+
+חנקת אשלגן
+B
+N:13.0 K2O:46.0 N_NO3:13.0 K:38.19
+
+פיק 0-51-34
+B
+P2O5:51.5 K2O:34.0 P:22.48 K:28.23
+
+קל מג (קל מאג) 5.8-0-0+3ca+3mg קלציום מגנזיום תמיסה להשלמת סידן ומגנזיום 10 ליטר כיל דשנים
+A
+N:5.8 CaO:4.2 MgO:5.0 N_NH4:0.2 N_NO3:5.6 Ca:3.0 Mg:3.01
+
+קלניט 150
+A
+N:7.5 CaO:15.0 N_NO3:7.5 Ca:10.72
+
+קלנית 150
+A
+N:7.5 CaO:15.0 N_NO3:7.5 Ca:10.72
+
+™magnisal™) haifa mag) - מגנזיום חנקתי (10.5-0-0+15.5 mgo) אתר את המפיץ הקרוב אליך יצירת קשר שם מלא מדינה טלפון טלפון +1 201-555-0123 דוא"ל תחום התמחות אני מסכים לקבל מידע באמצעות דוא"ל מגנזיום חנקתי hexahydrate 10.5-0-0+15.5mgo, מסיס במים
+B
+N:11.0 MgO:16.0 N_NO3:11.0 Mg:9.65
